@@ -1,0 +1,8993 @@
+[
+  {
+    "index": 0,
+    "input": "1 1/4 cups cooked and pureed fresh butternut squash, or 1 10-ounce package frozen squash, defrosted",
+    "name": "butternut squash",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "cooked and pureed fresh, or 1 10-ounce package frozen squash, defrosted"
+  },
+  {
+    "index": 1,
+    "input": "1 cup peeled and cooked fresh chestnuts (about 20), or 1 cup canned, unsweetened chestnuts",
+    "name": "chestnuts",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "peeled and cooked fresh (about 20), or 1 cup canned, unsweetened"
+  },
+  {
+    "index": 2,
+    "input": "1 medium-size onion, peeled and chopped",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium-size, peeled and chopped"
+  },
+  {
+    "index": 3,
+    "input": "2 stalks celery, chopped coarse",
+    "name": "celery",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "stalk",
+    "comment": "chopped coarse"
+  },
+  {
+    "index": 4,
+    "input": "1 1/2 tablespoons vegetable oil",
+    "name": "vegetable oil",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 5,
+    "input": "",
+    "name": "water",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 6,
+    "input": "2 tablespoons unflavored gelatin, dissolved in 1/2 cup water",
+    "name": "gelatin",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "unflavored, dissolved in 1/2 cup water"
+  },
+  {
+    "index": 7,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 8,
+    "input": "1 cup canned plum tomatoes with juice",
+    "name": "plum tomatoes",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "canned, with juice"
+  },
+  {
+    "index": 9,
+    "input": "6 cups veal or beef stock",
+    "name": "stock",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "veal or beef"
+  },
+  {
+    "index": 10,
+    "input": "1/3 cup worcestershire sauce",
+    "name": "worcestershire sauce",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 11,
+    "input": "1 tablespoon louisiana hot sauce",
+    "name": "louisiana hot sauce",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 12,
+    "input": "1/2 teaspoon hot red pepper flakes",
+    "name": "hot red pepper flakes",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 13,
+    "input": "4 bay leaves",
+    "name": "bay leaves",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 14,
+    "input": "6 cloves garlic, crushed and chopped",
+    "name": "garlic",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "crushed and chopped"
+  },
+  {
+    "index": 15,
+    "input": "2 carrots, peeled and diced",
+    "name": "carrots",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled and diced"
+  },
+  {
+    "index": 16,
+    "input": "2 medium onions, diced",
+    "name": "onions",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, diced"
+  },
+  {
+    "index": 17,
+    "input": "6 tablespoons butter",
+    "name": "butter",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 18,
+    "input": "1 tablespoon creole seasoning, or other seasonings of your choice",
+    "name": "creole seasoning",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "or other seasonings of your choice"
+  },
+  {
+    "index": 19,
+    "input": "3 pounds beef brisket",
+    "name": "beef brisket",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 20,
+    "input": "1/2 cup fine dry bread crumbs",
+    "name": "bread crumbs",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fine dry"
+  },
+  {
+    "index": 21,
+    "input": "freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 22,
+    "input": "12 oysters and their liquor",
+    "name": "oysters and their liquor",
+    "qty": 12,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 23,
+    "input": "3 tablespoons minced scallions",
+    "name": "scallions",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "minced"
+  },
+  {
+    "index": 24,
+    "input": "1 tablespoon flour",
+    "name": "flour",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 25,
+    "input": "6 ounces button mushrooms, thinly sliced then coarsely chopped",
+    "name": "button mushrooms",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "thinly sliced then coarsely chopped"
+  },
+  {
+    "index": 26,
+    "input": "13 tablespoons butter",
+    "name": "butter",
+    "qty": 13,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 27,
+    "input": "4 large artichokes, trimmed",
+    "name": "artichokes",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large, trimmed"
+  },
+  {
+    "index": 28,
+    "input": "juice of 1 lemon",
+    "name": "lemon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "juice of"
+  },
+  {
+    "index": 29,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 30,
+    "input": "confectioners' sugar",
+    "name": "confectioners' sugar",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 31,
+    "input": "1/4 teaspoon vanilla extract",
+    "name": "vanilla extract",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 32,
+    "input": "2 large eggs",
+    "name": "eggs",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large"
+  },
+  {
+    "index": 33,
+    "input": "pinch of freshly grated nutmeg",
+    "name": "nutmeg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": "freshly grated"
+  },
+  {
+    "index": 34,
+    "input": "2 teaspoons baking powder",
+    "name": "baking powder",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 35,
+    "input": "1/4 teaspoon salt",
+    "name": "salt",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 36,
+    "input": "1/4 cup sugar",
+    "name": "sugar",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 37,
+    "input": "6 tablespoons flour",
+    "name": "flour",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 38,
+    "input": "2 cups cooked medium- or long-grain white rice",
+    "name": "white rice",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "cooked medium- or long-grain"
+  },
+  {
+    "index": 39,
+    "input": "vegetable oil, for deep-frying",
+    "name": "vegetable oil",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for deep-frying"
+  },
+  {
+    "index": 40,
+    "input": "pound elbow macaroni",
+    "name": "elbow macaroni",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 41,
+    "input": "freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 42,
+    "input": "2 teaspoons dijon mustard",
+    "name": "dijon mustard",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 43,
+    "input": "cup heavy cream",
+    "name": "heavy cream",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 44,
+    "input": "2 cups whole milk",
+    "name": "milk",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "whole"
+  },
+  {
+    "index": 45,
+    "input": "1/2 teaspoon hot red pepper flakes",
+    "name": "hot red pepper flakes",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 46,
+    "input": "3 tablespoons flour",
+    "name": "flour",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 47,
+    "input": "5 cups coarsely grated extra-sharp cheddar",
+    "name": "cheddar",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "coarsely grated extra-sharp"
+  },
+  {
+    "index": 48,
+    "input": "2 cups panko or coarse dry bread crumbs",
+    "name": "bread crumbs",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "panko or coarse dry"
+  },
+  {
+    "index": 49,
+    "input": "5 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 50,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 51,
+    "input": "sprigs of watercress",
+    "name": "watercress",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "sprig",
+    "comment": ""
+  },
+  {
+    "index": 52,
+    "input": "3/4 pound shiitake mushrooms, stemmed and quartered",
+    "name": "shiitake mushrooms",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "stemmed and quartered"
+  },
+  {
+    "index": 53,
+    "input": "2 tablespoons extra-virgin olive oil",
+    "name": "olive oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "extra-virgin"
+  },
+  {
+    "index": 54,
+    "input": "kosher salt and black pepper",
+    "name": "salt and black pepper",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": "kosher"
+  },
+  {
+    "index": 55,
+    "input": "1 2-pound beef tenderloin roast, cut from the large end, trimmed and tied at 1/2 -inch intervals with kitchen twine",
+    "name": "beef tenderloin",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "1 2-pound roast, cut from the large end, trimmed and tied at 1/2-inch intervals with kitchen twine"
+  },
+  {
+    "index": 56,
+    "input": "1/8 teaspoon ground cinnamon",
+    "name": "cinnamon",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 57,
+    "input": "1 tablespoon cocoa powder",
+    "name": "cocoa powder",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 58,
+    "input": "3 tablespoons medium-roast coffee beans, finely ground",
+    "name": "coffee beans",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "medium-roast, finely ground"
+  },
+  {
+    "index": 59,
+    "input": "1 teaspoon light-brown sugar",
+    "name": "brown sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "light"
+  },
+  {
+    "index": 60,
+    "input": "kosher salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "kosher"
+  },
+  {
+    "index": 61,
+    "input": "1/4 cup heavy cream",
+    "name": "heavy cream",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 62,
+    "input": "2 1/2 cups chicken stock",
+    "name": "chicken stock",
+    "qty": 2.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 63,
+    "input": "4 large cloves garlic",
+    "name": "garlic",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": ""
+  },
+  {
+    "index": 64,
+    "input": "1 1/2 cups chopped white onion",
+    "name": "onion",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped white"
+  },
+  {
+    "index": 65,
+    "input": "3 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 66,
+    "input": "1 6-inch white-corn tortilla",
+    "name": "white-corn tortilla",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "6-inch"
+  },
+  {
+    "index": 67,
+    "input": "2 dried pasilla chilies",
+    "name": "pasilla chilies",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "dried"
+  },
+  {
+    "index": 68,
+    "input": "1 teaspoon pomegranate molasses",
+    "name": "pomegranate molasses",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 69,
+    "input": "2 dashes of angostura bitters",
+    "name": "angostura bitters",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "dash",
+    "comment": ""
+  },
+  {
+    "index": 70,
+    "input": "1/2 ounce apple schnapps",
+    "name": "apple schnapps",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 71,
+    "input": "1/2 ounce sweet vermouth",
+    "name": "sweet vermouth",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 72,
+    "input": "2 ounces applejack",
+    "name": "applejack",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 73,
+    "input": "1 orange slice 1 1/4-inch thick, cut in half",
+    "name": "orange",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "slice",
+    "comment": "1 1/4-inch thick, cut in half"
+  },
+  {
+    "index": 74,
+    "input": "1 cup sugar",
+    "name": "sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 75,
+    "input": "12 ounces cranberries, washed and picked over",
+    "name": "cranberries",
+    "qty": 12,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "washed and picked over"
+  },
+  {
+    "index": 76,
+    "input": "1 1/2 cups strawberries (about 1 pint), hulled and halved",
+    "name": "strawberries",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "(about 1 pint), hulled and halved"
+  },
+  {
+    "index": 77,
+    "input": "3 bananas",
+    "name": "bananas",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 78,
+    "input": "3 tablespoons triple sec",
+    "name": "triple sec",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 79,
+    "input": "3 tablespoons fresh lemon juice",
+    "name": "lemon juice",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "fresh"
+  },
+  {
+    "index": 80,
+    "input": "3/4 cup fresh orange juice",
+    "name": "orange juice",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fresh"
+  },
+  {
+    "index": 81,
+    "input": "3 papayas (1 pound each), peeled and cut into 1-inch chunks (about 4 cups)",
+    "name": "papayas",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "(1 pound each), peeled and cut into 1-inch chunks (about 4 cups)"
+  },
+  {
+    "index": 82,
+    "input": "6 kiwis (3 to 4 ounces each), peeled and cut into rounds about 1/4-inch thick",
+    "name": "kiwis",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": "(3 to 4 ounce each), peeled and cut into rounds about 1/4-inch thick"
+  },
+  {
+    "index": 83,
+    "input": "3 mcintosh apples (8 ounces each), peeled, quartered, cored and cut into thin wedges (about 3 cups)",
+    "name": "mcintosh apples",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "(8 ounce each), peeled, quartered, cored and cut into thin wedges (about 3 cups)"
+  },
+  {
+    "index": 84,
+    "input": "3 anjou pears (8 ounces each), peeled, halved, cored and thinly sliced lengthwise (about 3 cups)",
+    "name": "anjou pears",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "(8 ounces each), peeled, halved, cored and thinly sliced lengthwise (about 3 cups)"
+  },
+  {
+    "index": 85,
+    "input": "1 small pineapple, peeled, cored and cut into 1-inch chunks (about 3 cups)",
+    "name": "pineapple",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "small, peeled, cored and cut into 1-inch chunks (about 3 cups)"
+  },
+  {
+    "index": 86,
+    "input": "9 juice oranges (6 ounces each), peeled and sectioned",
+    "name": "oranges",
+    "qty": 9,
+    "range_end": 0,
+    "unit": "",
+    "comment": "juice (6 ounces each), peeled and sectioned"
+  },
+  {
+    "index": 87,
+    "input": "2 small pink grapefruits (12 ounces each) or 1 large pink grapefruit, peeled and sectioned",
+    "name": "grapefruits",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "small pink (12 ounces each) or 1 large pink grapefruit, peeled and sectioned"
+  },
+  {
+    "index": 88,
+    "input": "3 cups seedless grapes, equal amounts of red and green",
+    "name": "grapes",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "seedless, equal amounts of red and green"
+  },
+  {
+    "index": 89,
+    "input": "18 kumquats, thinly sliced",
+    "name": "kumquats",
+    "qty": 18,
+    "range_end": 0,
+    "unit": "",
+    "comment": "thinly sliced"
+  },
+  {
+    "index": 90,
+    "input": "1 cup sifted granulated sugar (optional)",
+    "name": "sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "sifted granulated (optional)"
+  },
+  {
+    "index": 91,
+    "input": "1 teaspoon pure vanilla extract",
+    "name": "vanilla extract",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "pure"
+  },
+  {
+    "index": 92,
+    "input": "1 1/4 cups cake flour",
+    "name": "cake flour",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 93,
+    "input": "pinch of kosher salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": "of kosher"
+  },
+  {
+    "index": 94,
+    "input": "3 egg whites, from grade a large eggs",
+    "name": "egg",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "whites, from grade a large eggs"
+  },
+  {
+    "index": 95,
+    "input": "1/2 cup dark brown sugar",
+    "name": "brown sugar",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "dark"
+  },
+  {
+    "index": 96,
+    "input": "3/4 cup unsalted butter, at room temperature",
+    "name": "unsalted butter",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "at room temperature"
+  },
+  {
+    "index": 97,
+    "input": "freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 98,
+    "input": "5 tablespoons pernod",
+    "name": "pernod",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 99,
+    "input": "4 teaspoons kosher salt",
+    "name": "salt",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 100,
+    "input": "1/4 cup fresh lemon juice",
+    "name": "lemon juice",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fresh"
+  },
+  {
+    "index": 101,
+    "input": "1 cup olive oil",
+    "name": "olive oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 102,
+    "input": "1 cup fresh orange juice",
+    "name": "orange juice",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fresh"
+  },
+  {
+    "index": 103,
+    "input": "3 heads fennel, tops removed and thinly sliced across the bulb (about 6 cups)",
+    "name": "fennel",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "head",
+    "comment": "tops removed and thinly sliced across the bulb (about 6 cups)"
+  },
+  {
+    "index": 104,
+    "input": "2 large heads romaine lettuce, torn into small pieces (about 8 cups)",
+    "name": "romaine lettuce",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "head",
+    "comment": "torn into small pieces (about 8 cups)"
+  },
+  {
+    "index": 105,
+    "input": "6 bunches watercress (about 12 cups of sprigs)",
+    "name": "watercress",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "bunch",
+    "comment": "about 12 cups of sprigs"
+  },
+  {
+    "index": 106,
+    "input": "2 1/2 pounds bell peppers (about 6 peppers in assorted colors), cut into 2-inch chunks",
+    "name": "bell peppers",
+    "qty": 2.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "(about 6 peppers in assorted colors), cut into 2-inch chunks"
+  },
+  {
+    "index": 107,
+    "input": "3/4 pound mushrooms, cut into 1/4-inch slices through the stem (4 cups)",
+    "name": "mushrooms",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "cut into 1/4-inch slices through the stem (4 cups)"
+  },
+  {
+    "index": 108,
+    "input": "4 pounds rigatoni",
+    "name": "rigatoni",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 109,
+    "input": "2 bay leaves",
+    "name": "bay leaves",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 110,
+    "input": "2 tablespoons kosher salt",
+    "name": "salt",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 111,
+    "input": "5 pounds sweet italian sausage in casing, cut into 1-inch lengths",
+    "name": "sausage",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "sweet italian in casing, cut into 1-inch lengths"
+  },
+  {
+    "index": 112,
+    "input": "1/2 teaspoon hot red-pepper flakes",
+    "name": "red-pepper flakes",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "hot"
+  },
+  {
+    "index": 113,
+    "input": "1/4 teaspoon freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 114,
+    "input": "2 tablespoons kosher salt",
+    "name": "salt",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 115,
+    "input": "1 teaspoon thyme",
+    "name": "thyme",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 116,
+    "input": "1 1/2 teaspoons oregano",
+    "name": "oregano",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 117,
+    "input": "2 28-ounce cans crushed tomatoes",
+    "name": "tomatoes",
+    "qty": 56,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "2 cans crushed"
+  },
+  {
+    "index": 118,
+    "input": "1/2 cup olive oil",
+    "name": "olive oil",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 119,
+    "input": "8 cloves garlic, peeled and smashed",
+    "name": "garlic",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "peeled and smashed"
+  },
+  {
+    "index": 120,
+    "input": "2 cups parsley leaves",
+    "name": "parsley leaves",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 121,
+    "input": "3/4 cup of liquid from cooked mussels",
+    "name": "liquid from cooked mussels",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 122,
+    "input": "4 tablespoons drained and rinsed capers",
+    "name": "capers",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "drained and rinsed"
+  },
+  {
+    "index": 123,
+    "input": "1/2 teaspoon freshly ground black pepper",
+    "name": "freshly ground black pepper",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 124,
+    "input": "1 tablespoon kosher salt",
+    "name": "kosher salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 125,
+    "input": "1/4 cup good quality olive oil",
+    "name": "good quality olive oil",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 126,
+    "input": "1/2 cup fresh lemon juice",
+    "name": "fresh lemon juice",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 127,
+    "input": "3/4 pound white onion, quartered and thinly sliced (2 cups)",
+    "name": "onion",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "white, quartered and thinly sliced (2 cups)"
+  },
+  {
+    "index": 128,
+    "input": "8 stalks (about 1 1/2 pounds) celery, peeled and cut diagonally into 1/4-inch slices",
+    "name": "celery",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "stalk",
+    "comment": "(about 1 1/2 pounds), peeled and cut diagonally into 1/4-inch slices"
+  },
+  {
+    "index": 129,
+    "input": "4 9-ounce boxes frozen artichoke hearts",
+    "name": "frozen artichoke hearts",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "box",
+    "comment": "(9-ounce boxes)"
+  },
+  {
+    "index": 130,
+    "input": "1 teaspoon kosher salt",
+    "name": "kosher salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 131,
+    "input": "3 1/4 pounds medium shrimp (20-24 to the pound), shelled",
+    "name": "medium shrimp",
+    "qty": 3.25,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "(20-24 to the pound), shelled"
+  },
+  {
+    "index": 132,
+    "input": "6 1/2 pounds mussels (about 6 dozen), scrubbed and beards removed",
+    "name": "mussels",
+    "qty": 6.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "(about 6 dozen), scrubbed and beards removed"
+  },
+  {
+    "index": 133,
+    "input": "1/2 teaspoon sugar",
+    "name": "sugar",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 134,
+    "input": "1 teaspoon asian sesame oil",
+    "name": "asian sesame oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 135,
+    "input": "10 ounces brussels sprouts",
+    "name": "brussels sprouts",
+    "qty": 10,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 136,
+    "input": "2 scallions",
+    "name": "scallions",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 137,
+    "input": "8 italian, french or greek black olives",
+    "name": "black olives",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": "italian, french or greek"
+  },
+  {
+    "index": 138,
+    "input": "4 ripe plum tomatoes",
+    "name": "plum tomatoes",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "ripe"
+  },
+  {
+    "index": 139,
+    "input": "1 teaspoon olive oil",
+    "name": "olive oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 140,
+    "input": "1 cup whole-wheat couscous",
+    "name": "whole-wheat couscous",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 141,
+    "input": "no-salt added beef stock or broth",
+    "name": "beef stock or broth",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "no-salt added"
+  },
+  {
+    "index": 142,
+    "input": "8 ounces pork tenderloin",
+    "name": "pork tenderloin",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 143,
+    "input": "1 clove garlic",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": ""
+  },
+  {
+    "index": 144,
+    "input": "1/2 teaspoon ground ginger",
+    "name": "ground ginger",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 145,
+    "input": "1 teaspoon cumin",
+    "name": "cumin",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 146,
+    "input": "1 teaspoon ground cinnamon",
+    "name": "cinnamon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 147,
+    "input": "1 teaspoon ground cloves",
+    "name": "cloves",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 148,
+    "input": "1 teaspoon ground ginger",
+    "name": "ginger",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 149,
+    "input": "2 teaspoons baking soda",
+    "name": "baking soda",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 150,
+    "input": "1 1/2 teaspoons kosher salt",
+    "name": "salt",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 151,
+    "input": "2 cups all-purpose flour",
+    "name": "all-purpose flour",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 152,
+    "input": "1 large egg",
+    "name": "egg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large"
+  },
+  {
+    "index": 153,
+    "input": "1 cup sugar, plus 1/4 cup for dusting the cookies",
+    "name": "sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "plus 1/4 cup for dusting the cookies"
+  },
+  {
+    "index": 154,
+    "input": "4 tablespoons dark molasses",
+    "name": "molasses",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "dark"
+  },
+  {
+    "index": 155,
+    "input": "3/4 cup bacon fat, cooled (from 1 1/2 to 2 pounds oscar mayer bacon)",
+    "name": "bacon fat",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "cooled (from 1 1/2 to 2 pounds oscar mayer bacon)"
+  },
+  {
+    "index": 156,
+    "input": "maple syrup, optional",
+    "name": "maple syrup",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "optional"
+  },
+  {
+    "index": 157,
+    "input": "1 1/4 cups chopped fresh cranberries",
+    "name": "cranberries",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped fresh"
+  },
+  {
+    "index": 158,
+    "input": "1 1/2 teaspoons salt",
+    "name": "salt",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 159,
+    "input": "2 tablespoons plus 2 teaspoons baking powder",
+    "name": "baking powder",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 160,
+    "input": "2 tablespoons sugar",
+    "name": "sugar",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 161,
+    "input": "1/2 cup yellow cornmeal",
+    "name": "yellow cornmeal",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 162,
+    "input": "2 cups flour",
+    "name": "flour",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 163,
+    "input": "4 large eggs",
+    "name": "eggs",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large"
+  },
+  {
+    "index": 164,
+    "input": "2 cups milk",
+    "name": "milk",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 165,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 166,
+    "input": "10 tablespoons butter, cut into chunks, plus more for greasing pan",
+    "name": "butter",
+    "qty": 10,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "cut into chunks, plus more for greasing pan"
+  },
+  {
+    "index": 167,
+    "input": "1/2 tablespoon butter",
+    "name": "butter",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 168,
+    "input": "1/2 cup heavy cream",
+    "name": "heavy cream",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 169,
+    "input": "2 tablespoons sugar",
+    "name": "sugar",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 170,
+    "input": "2 teaspoons cream cheese",
+    "name": "cream cheese",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 171,
+    "input": "2 teaspoons cornstarch",
+    "name": "cornstarch",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 172,
+    "input": "2 cups apple cider",
+    "name": "apple cider",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 173,
+    "input": "3/4 teaspoon pumpkin-pie spice",
+    "name": "pumpkin-pie spice",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 174,
+    "input": "1/2 teaspoon salt",
+    "name": "salt",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 175,
+    "input": "1/2 cup packed light brown sugar",
+    "name": "light brown sugar",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "packed"
+  },
+  {
+    "index": 176,
+    "input": "2 granny smith apples",
+    "name": "granny smith apples",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 177,
+    "input": "2 gala apples",
+    "name": "gala apples",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 178,
+    "input": "chopped fresh parsley leaves for garnish",
+    "name": "chopped fresh parsley leaves for garnish",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 179,
+    "input": "1 lemon, thinly sliced",
+    "name": "lemon, thinly sliced",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 180,
+    "input": "flour for dredging",
+    "name": "flour for dredging",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 181,
+    "input": "1 cup mixed good olives",
+    "name": "mixed good olives",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 182,
+    "input": "8 to 12 thin slices veal, preferably from the leg, pounded slightly until less than 1/4-inch thick",
+    "name": "veal, preferably from the leg, pounded slightly until less than 1/4-inch thick",
+    "qty": 8,
+    "range_end": 12,
+    "unit": "slice",
+    "comment": ""
+  },
+  {
+    "index": 183,
+    "input": "salt and pepper",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 184,
+    "input": "2 cups chopped tomatoes (canned are fine; drain them first)",
+    "name": "chopped tomatoes (canned are fine; drain them first)",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 185,
+    "input": "1 teaspoon minced garlic",
+    "name": "minced garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 186,
+    "input": "extra virgin olive oil as needed",
+    "name": "extra virgin olive oil as needed",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 187,
+    "input": "freshly grated parmesan",
+    "name": "parmesan",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly grated"
+  },
+  {
+    "index": 188,
+    "input": "1/4 cup chopped fresh basil, optional",
+    "name": "basil",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped fresh, optional"
+  },
+  {
+    "index": 189,
+    "input": "1/4 cup chopped fresh parsley",
+    "name": "parsley",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped fresh"
+  },
+  {
+    "index": 190,
+    "input": "6 cups stock or water, more as necessary",
+    "name": "stock",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "or water, more as necessary"
+  },
+  {
+    "index": 191,
+    "input": "2 cups chopped tomatoes (canned are fine; do not drain)",
+    "name": "tomatoes",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped (canned are fine; do not drain)"
+  },
+  {
+    "index": 192,
+    "input": "1 cup dried white beans, soaked for several hours or overnight",
+    "name": "white beans",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "dried, soaked for several hours or overnight"
+  },
+  {
+    "index": 193,
+    "input": "1 cup farro, spelt or barley",
+    "name": "farro",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "spelt or barley"
+  },
+  {
+    "index": 194,
+    "input": "1 tablespoon minced garlic",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "minced"
+  },
+  {
+    "index": 195,
+    "input": "salt and pepper",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 196,
+    "input": "2 carrots, peeled and chopped",
+    "name": "carrots",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled and chopped"
+  },
+  {
+    "index": 197,
+    "input": "2 celery stalks, trimmed and chopped",
+    "name": "celery",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "stalk",
+    "comment": "trimmed and chopped"
+  },
+  {
+    "index": 198,
+    "input": "1 large onion, sliced",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large, sliced"
+  },
+  {
+    "index": 199,
+    "input": "2 tablespoons extra virgin olive oil",
+    "name": "olive oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "extra virgin"
+  },
+  {
+    "index": 200,
+    "input": "chopped fresh parsley leaves for garnish",
+    "name": "parsley leaves",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "chopped fresh for garnish"
+  },
+  {
+    "index": 201,
+    "input": "black pepper",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 202,
+    "input": "1/3 cup extra virgin olive oil",
+    "name": "olive oil",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "extra virgin"
+  },
+  {
+    "index": 203,
+    "input": "2 pounds potatoes",
+    "name": "potatoes",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 204,
+    "input": "1 1/2 to 2 pounds thick-cut cod, whiting, or hake fillets",
+    "name": "cod",
+    "qty": 1.5,
+    "range_end": 2,
+    "unit": "pound",
+    "comment": "thick-cut, whiting, or hake fillets"
+  },
+  {
+    "index": 205,
+    "input": "coarse salt as needed",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "coarse as needed"
+  },
+  {
+    "index": 206,
+    "input": "1 teaspoon vanilla extract",
+    "name": "vanilla extract",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 207,
+    "input": "2 tablespoons unsalted butter, at room temperature and cut into 4 pieces",
+    "name": "unsalted butter, at room temperature and cut into 4 pieces",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 208,
+    "input": "5 ounces bittersweet chocolate, melted and still warm",
+    "name": "bittersweet chocolate, melted and still warm",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 209,
+    "input": "2 large egg yolks",
+    "name": "large egg yolks",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 210,
+    "input": "1/4 teaspoon salt",
+    "name": "salt",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 211,
+    "input": "1 large egg",
+    "name": "large egg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 212,
+    "input": "2 tablespoons cornstarch",
+    "name": "cornstarch",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 213,
+    "input": "2 tablespoons cocoa",
+    "name": "cocoa",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 214,
+    "input": "6 tablespoons sugar",
+    "name": "sugar",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 215,
+    "input": "2 1/4 cups whole milk",
+    "name": "whole milk",
+    "qty": 2.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 216,
+    "input": "3 tablespoons slivered almonds",
+    "name": "almonds",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "slivered"
+  },
+  {
+    "index": 217,
+    "input": "pinch of salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": ""
+  },
+  {
+    "index": 218,
+    "input": "1 1/4 teaspoons vanilla extract",
+    "name": "vanilla extract",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 219,
+    "input": "7 egg whites",
+    "name": "egg",
+    "qty": 7,
+    "range_end": 0,
+    "unit": "",
+    "comment": "whites"
+  },
+  {
+    "index": 220,
+    "input": "10 tablespoons confectioners' sugar",
+    "name": "confectioners' sugar",
+    "qty": 10,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 221,
+    "input": "2/3 cup heavy cream",
+    "name": "heavy cream",
+    "qty": 0.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 222,
+    "input": "4 1/2 tablespoons flour, preferably cake flour",
+    "name": "flour",
+    "qty": 4.5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "preferably cake flour"
+  },
+  {
+    "index": 223,
+    "input": "about 2/3 cup blanched almonds, finely ground",
+    "name": "almonds",
+    "qty": 0.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "about blanched, finely ground"
+  },
+  {
+    "index": 224,
+    "input": "3/4 cup granulated sugar",
+    "name": "sugar",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "granulated"
+  },
+  {
+    "index": 225,
+    "input": "4 egg yolks",
+    "name": "egg",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "yolks"
+  },
+  {
+    "index": 226,
+    "input": "1/3 cup plus 1/4 cup kirsch or dark rum",
+    "name": "rum",
+    "qty": 0.58,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "kirsch or dark"
+  },
+  {
+    "index": 227,
+    "input": "2 16-ounce cans dark cherries, pitted",
+    "name": "cherries",
+    "qty": 32,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "2 16-ounce cans dark, pitted"
+  },
+  {
+    "index": 228,
+    "input": "2 tablespoons chopped parsley",
+    "name": "parsley",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped"
+  },
+  {
+    "index": 229,
+    "input": "2 tablespoons chopped parsley",
+    "name": "parsley",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped"
+  },
+  {
+    "index": 230,
+    "input": "freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 231,
+    "input": "3 large cloves garlic, smashed",
+    "name": "garlic",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "smashed"
+  },
+  {
+    "index": 232,
+    "input": "5 tablespoons tomato paste",
+    "name": "tomato paste",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 233,
+    "input": "6 cups chicken stock",
+    "name": "chicken stock",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 234,
+    "input": "1 cup sliced onion",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "sliced"
+  },
+  {
+    "index": 235,
+    "input": "1 1/2 pounds hot italian or spanish sausage",
+    "name": "sausage",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "hot italian or spanish"
+  },
+  {
+    "index": 236,
+    "input": "2 ducks, about 4 1/2 pounds each",
+    "name": "ducks",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "about, 4 1/2 pounds each"
+  },
+  {
+    "index": 237,
+    "input": "1 2 1/2-pound chunk of slab bacon",
+    "name": "slab bacon",
+    "qty": 2.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "1 2 1/2-pound chunk of"
+  },
+  {
+    "index": 238,
+    "input": "bouquet garni of 1 sprig thyme, 2 bay leaves, parsley stalks and 3 large cloves garlic",
+    "name": "bouquet garni",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "1 sprig thyme, 2 bay leaves, parsley + stalks and 3 large cloves garlic"
+  },
+  {
+    "index": 239,
+    "input": "4 medium carrots, peeled and sliced",
+    "name": "carrots",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, peeled and sliced"
+  },
+  {
+    "index": 240,
+    "input": "1 onion, peeled and stuck with 2 cloves",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled and stuck with 2 cloves"
+  },
+  {
+    "index": 241,
+    "input": "rind from 1/2 pound salt pork",
+    "name": "salt pork",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "rind from"
+  },
+  {
+    "index": 242,
+    "input": "2 pounds (5 1/2 cups) dry white beans (great northern)",
+    "name": "beans",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "(5 1/2 cups) dry white (great northern)"
+  },
+  {
+    "index": 243,
+    "input": "pyrex cups or ramekins, buttered",
+    "name": "pyrex cups",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "or ramekins, buttered"
+  },
+  {
+    "index": 244,
+    "input": "8 scallop shells, pyrex cups or ramekins, buttered",
+    "name": "scallop shells",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": "buttered"
+  },
+  {
+    "index": 245,
+    "input": "3 tablespoons fresh parsley, chopped",
+    "name": "parsley",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "fresh, chopped"
+  },
+  {
+    "index": 246,
+    "input": "2/3 cup stale bread crumbs, from good bread",
+    "name": "bread crumbs",
+    "qty": 0.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "stale, from good bread"
+  },
+  {
+    "index": 247,
+    "input": "1 stick plus 2 tablespoons butter",
+    "name": "butter",
+    "qty": 10,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 248,
+    "input": "about 8 shallots, to yield 1 cup, minced",
+    "name": "shallots",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": "about, to yield 1 cup, minced"
+  },
+  {
+    "index": 249,
+    "input": "black pepper, freshly ground",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 250,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 251,
+    "input": "2 to 3 dozen scallops, to yield 1 pound",
+    "name": "scallops",
+    "qty": 2,
+    "range_end": 3,
+    "unit": "dozen",
+    "comment": "to yield 1 pound"
+  },
+  {
+    "index": 252,
+    "input": "2 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 253,
+    "input": "2 to 3 teaspoons minced jalapeño",
+    "name": "jalapeños",
+    "qty": 2,
+    "range_end": 3,
+    "unit": "teaspoon",
+    "comment": "minced"
+  },
+  {
+    "index": 254,
+    "input": "2 cups grated monterey jack",
+    "name": "monterey jack",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "grated"
+  },
+  {
+    "index": 255,
+    "input": "2/3 cup corn oil",
+    "name": "corn oil",
+    "qty": 0.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 256,
+    "input": "2 cups buttermilk",
+    "name": "buttermilk",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 257,
+    "input": "1 teaspoon baking soda",
+    "name": "baking soda",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 258,
+    "input": "1 teaspoon salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 259,
+    "input": "4 lightly beaten eggs",
+    "name": "eggs",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "lightly beaten"
+  },
+  {
+    "index": 260,
+    "input": "2 cups stone-ground yellow cornmeal",
+    "name": "cornmeal",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "stone-ground yellow"
+  },
+  {
+    "index": 261,
+    "input": "2 8 1/2-ounce cans, or 2 cups plus 2 tablespoons cream-style corn",
+    "name": "cream-style corn",
+    "qty": 17,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "2 cans, or 2 cups plus 2 tablespoons"
+  },
+  {
+    "index": 262,
+    "input": "creme fraiche for topping, optional",
+    "name": "creme fraiche",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for topping, optional"
+  },
+  {
+    "index": 263,
+    "input": "4 tablespoons regular or low-fat sour cream",
+    "name": "sour cream",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "regular or low-fat"
+  },
+  {
+    "index": 264,
+    "input": "1 tablespoon grated lime rind",
+    "name": "lime rind",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "grated"
+  },
+  {
+    "index": 265,
+    "input": "4 teaspoons lemon juice",
+    "name": "lemon juice",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 266,
+    "input": "salt to taste",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "to taste"
+  },
+  {
+    "index": 267,
+    "input": "1/4 teaspoon ground cloves or to taste",
+    "name": "cloves",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground or to taste"
+  },
+  {
+    "index": 268,
+    "input": "1 1/4 teaspoon ground cardamom",
+    "name": "cardamom",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 269,
+    "input": "3 tablespoons maple syrup",
+    "name": "maple syrup",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 270,
+    "input": "3 eggs",
+    "name": "eggs",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 271,
+    "input": "3 pounds sweet potatoes",
+    "name": "sweet potatoes",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 272,
+    "input": "1 cup good quality chicken stock (approximately)",
+    "name": "chicken stock",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "good quality (approximately)"
+  },
+  {
+    "index": 273,
+    "input": "2 lightly beaten eggs",
+    "name": "eggs",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "lightly beaten"
+  },
+  {
+    "index": 274,
+    "input": "salt and freshly ground black pepper to taste",
+    "name": "salt and black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 275,
+    "input": "1 cup finely minced celery",
+    "name": "celery",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "finely minced"
+  },
+  {
+    "index": 276,
+    "input": "1 1/2 cups green bell peppers",
+    "name": "green bell peppers",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 277,
+    "input": "2 large cloves garlic, minced",
+    "name": "garlic",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "minced"
+  },
+  {
+    "index": 278,
+    "input": "2 cups finely chopped onion",
+    "name": "onion",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "finely chopped"
+  },
+  {
+    "index": 279,
+    "input": "2 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 280,
+    "input": "2 hard-cooked eggs, chopped",
+    "name": "eggs",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "hard-cooked, chopped"
+  },
+  {
+    "index": 281,
+    "input": "5 cups toasted bread cubes",
+    "name": "bread cubes",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "toasted"
+  },
+  {
+    "index": 282,
+    "input": "5 cups corn bread cubes",
+    "name": "corn bread cubes",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 283,
+    "input": "2/3 cup coarsely chopped pecans",
+    "name": "pecans",
+    "qty": 0.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "coarsely chopped"
+  },
+  {
+    "index": 284,
+    "input": "6 tablespoons grand marnier",
+    "name": "grand marnier",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 285,
+    "input": "1/4 cup orange juice",
+    "name": "orange juice",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 286,
+    "input": "1/2 to 3/4 cup sugar",
+    "name": "sugar",
+    "qty": 0.5,
+    "range_end": 0.75,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 287,
+    "input": "1 pound fresh cranberries",
+    "name": "cranberries",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "fresh"
+  },
+  {
+    "index": 288,
+    "input": "2 tablespoons coarse sugar like demerara or turbinado (optional)",
+    "name": "sugar",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "coarse like demerara or turbinado (optional)"
+  },
+  {
+    "index": 289,
+    "input": "2 sheets frozen puff pastry, thawed overnight in refrigerator",
+    "name": "puff pastry",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "sheet",
+    "comment": "frozen, thawed overnight in refrigerator"
+  },
+  {
+    "index": 290,
+    "input": "1/8 teaspoon salt",
+    "name": "salt",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 291,
+    "input": "flour for rolling out pastry",
+    "name": "flour",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for rolling out pastry"
+  },
+  {
+    "index": 292,
+    "input": "1 tablespoon fresh lemon juice",
+    "name": "lemon juice",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "fresh"
+  },
+  {
+    "index": 293,
+    "input": "1 cup peeled and grated tart apple, like granny smith (about 2 apples)",
+    "name": "tart apple",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "peeled and grated, like granny smith (about 2 apples)"
+  },
+  {
+    "index": 294,
+    "input": "1/2 teaspoon ground cinnamon",
+    "name": "cinnamon",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 295,
+    "input": "6 tablespoons granulated sugar",
+    "name": "sugar",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "granulated"
+  },
+  {
+    "index": 296,
+    "input": "1 tablespoon finely chopped crystallized ginger",
+    "name": "crystallized ginger",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "finely chopped"
+  },
+  {
+    "index": 297,
+    "input": "2/3 cup crumbled amaretti cookies",
+    "name": "amaretti cookies",
+    "qty": 0.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "crumbled"
+  },
+  {
+    "index": 298,
+    "input": "1/8 teaspoon ground nutmeg, optional",
+    "name": "nutmeg",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground, optional"
+  },
+  {
+    "index": 299,
+    "input": "1/4 teaspoon ground cinnamon, optional",
+    "name": "cinnamon",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground, optional"
+  },
+  {
+    "index": 300,
+    "input": "1/3 cup granulated sugar",
+    "name": "sugar",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "granulated"
+  },
+  {
+    "index": 301,
+    "input": "8 egg yolks",
+    "name": "egg",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": "yolks"
+  },
+  {
+    "index": 302,
+    "input": "1 vanilla bean, split lengthwise",
+    "name": "vanilla bean",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "split lengthwise"
+  },
+  {
+    "index": 303,
+    "input": "3 cups heavy cream",
+    "name": "heavy cream",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 304,
+    "input": "1 cup canned pumpkin puree",
+    "name": "pumpkin puree",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "canned"
+  },
+  {
+    "index": 305,
+    "input": "freshly ground white pepper",
+    "name": "white pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 306,
+    "input": "1/4 teaspoon ground cloves",
+    "name": "cloves",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 307,
+    "input": "1/4 teaspoon ground allspice",
+    "name": "allspice",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 308,
+    "input": "1/4 cup red wine vinegar",
+    "name": "red wine vinegar",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 309,
+    "input": "1/2 cup maple syrup",
+    "name": "maple syrup",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 310,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 311,
+    "input": "1 cup heavy cream",
+    "name": "heavy cream",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 312,
+    "input": "1 celery root, about 1 1/2 pounds, peeled and cut in chunks",
+    "name": "celery root",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "about 1 1/2 pounds, peeled and cut in chunks"
+  },
+  {
+    "index": 313,
+    "input": "sesame oil for drizzling, optional",
+    "name": "sesame oil",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for drizzling, optional"
+  },
+  {
+    "index": 314,
+    "input": "1/2 cup roasted peanuts, optional",
+    "name": "peanuts",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "roasted, optional"
+  },
+  {
+    "index": 315,
+    "input": "1/4 cup minced scallions",
+    "name": "scallions",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "minced"
+  },
+  {
+    "index": 316,
+    "input": "1/4 cup crispy cooked bacon, minced, optional",
+    "name": "bacon",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "crispy cooked, minced, optional"
+  },
+  {
+    "index": 317,
+    "input": "soy sauce or salt to taste",
+    "name": "soy sauce",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "or salt to taste"
+  },
+  {
+    "index": 318,
+    "input": "1/4 pound slab bacon, optional",
+    "name": "slab bacon",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "optional"
+  },
+  {
+    "index": 319,
+    "input": "1 3-inch piece of ginger, peeled and roughly chopped",
+    "name": "ginger",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "piece",
+    "comment": "1 3-inch piece of, peeled and roughly chopped"
+  },
+  {
+    "index": 320,
+    "input": "1 cup short-grain rice",
+    "name": "short-grain rice",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 321,
+    "input": "2 cups chicken stock, preferably homemade, or water",
+    "name": "chicken stock",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "preferably homemade, or water"
+  },
+  {
+    "index": 322,
+    "input": "3 tablespoons extra-virgin olive oil",
+    "name": "olive oil",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "extra-virgin"
+  },
+  {
+    "index": 323,
+    "input": "1 tablespoon chili powder",
+    "name": "chili powder",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 324,
+    "input": "6 cups cooked pinto or kidney beans, or a mixture",
+    "name": "beans",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "cooked pinto or kidney, or a mixture"
+  },
+  {
+    "index": 325,
+    "input": "1/2 cup fresh lime juice",
+    "name": "lime juice",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fresh"
+  },
+  {
+    "index": 326,
+    "input": "3 ripe haas avocados",
+    "name": "haas avocados",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "ripe"
+  },
+  {
+    "index": 327,
+    "input": "1 fresh jalapeno pepper, seeded and minced",
+    "name": "jalapeno pepper",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "fresh, seeded and minced"
+  },
+  {
+    "index": 328,
+    "input": "2 medium-size cucumbers, peeled and seeded",
+    "name": "cucumbers",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium-size, peeled and seeded"
+  },
+  {
+    "index": 329,
+    "input": "1 large red bell pepper, cored and seeded",
+    "name": "red bell pepper",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large, cored and seeded"
+  },
+  {
+    "index": 330,
+    "input": "2 medium-size red onions",
+    "name": "red onions",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium-size"
+  },
+  {
+    "index": 331,
+    "input": "3 pints cherry tomatoes",
+    "name": "cherry tomatoes",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "pint",
+    "comment": ""
+  },
+  {
+    "index": 332,
+    "input": "salt and freshly ground black pepper",
+    "name": "salt and black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 333,
+    "input": "1/2 cup dry red wine",
+    "name": "dry red wine",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 334,
+    "input": "3 tablespoons concentrated duck or veal stock (glace de viande)",
+    "name": "stock",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "concentrated duck or veal (glace de viande)"
+  },
+  {
+    "index": 335,
+    "input": "3 tablespoons reserved marinade (see note)",
+    "name": "marinade",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "reserved (see note)"
+  },
+  {
+    "index": 336,
+    "input": "1 tablespoon finely minced fresh ginger",
+    "name": "ginger",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "finely minced fresh"
+  },
+  {
+    "index": 337,
+    "input": "2 shallots, finely minced",
+    "name": "shallots",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "finely minced"
+  },
+  {
+    "index": 338,
+    "input": "2 tablespoons fat from cooking duck breasts",
+    "name": "fat",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "2 tablespoons from cooking duck breasts"
+  },
+  {
+    "index": 339,
+    "input": "1 tablespoon fresh lemon juice",
+    "name": "lemon juice",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "fresh"
+  },
+  {
+    "index": 340,
+    "input": "3 tablespoons light soy sauce",
+    "name": "soy sauce",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "light"
+  },
+  {
+    "index": 341,
+    "input": "2 tablespoons honey",
+    "name": "honey",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 342,
+    "input": "1 tablespoon chinese five-spice powder",
+    "name": "chinese five-spice powder",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 343,
+    "input": "3 moulard duck breasts (magret de canard)",
+    "name": "duck breasts",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "moulard (magret de canard)"
+  },
+  {
+    "index": 344,
+    "input": "4 tablespoons chives, cut into 1-inch-long pieces",
+    "name": "chives",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "cut into 1-inch-long pieces"
+  },
+  {
+    "index": 345,
+    "input": "4 tablespoons shaved parmesan cheese",
+    "name": "parmesan cheese",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "shaved"
+  },
+  {
+    "index": 346,
+    "input": "3/4 cup grated parmesan cheese",
+    "name": "parmesan cheese",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "grated"
+  },
+  {
+    "index": 347,
+    "input": "salt and freshly ground black pepper",
+    "name": "salt and black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 348,
+    "input": "1 pound parmesan cheese, chopped",
+    "name": "parmesan cheese",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "chopped"
+  },
+  {
+    "index": 349,
+    "input": "8 cups chicken broth",
+    "name": "chicken broth",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 350,
+    "input": "1 cup diced spanish onion",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "diced spanish"
+  },
+  {
+    "index": 351,
+    "input": "2 tablespoons butter",
+    "name": "butter",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 352,
+    "input": "2 teaspoons salt",
+    "name": "salt",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 353,
+    "input": "5 cups peeled and diced eggplant",
+    "name": "eggplant",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "peeled and diced"
+  },
+  {
+    "index": 354,
+    "input": "orange zest, for garnish (optional)",
+    "name": "orange",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "zested, for garnish (optional)"
+  },
+  {
+    "index": 355,
+    "input": "",
+    "name": "gingersnap cookies",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "finely crumbled, for rimming the glass"
+  },
+  {
+    "index": 356,
+    "input": "orange zest, for garnish (optional)",
+    "name": "orange",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "zested, for garnish (optional)"
+  },
+  {
+    "index": 357,
+    "input": "agave syrup (or honey) and finely crumbled gingersnap cookies, for rimming the glass",
+    "name": "agave syrup",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "or honey"
+  },
+  {
+    "index": 358,
+    "input": "dash of lemon juice",
+    "name": "lemon juice",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "dash",
+    "comment": ""
+  },
+  {
+    "index": 359,
+    "input": "2 1/2 ounces apple cider",
+    "name": "apple cider",
+    "qty": 2.5,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 360,
+    "input": "1 ounce vanilla vodka",
+    "name": "vanilla vodka",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 361,
+    "input": "2 ounces domaine de canton ginger and cognac liqueur",
+    "name": "domaine de canton ginger",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 362,
+    "input": "salt and freshly ground pepper",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 363,
+    "input": "1 tablespoon chopped fresh oregano or 1 teaspoon dried",
+    "name": "oregano",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped fresh or 1 teaspoon dried"
+  },
+  {
+    "index": 364,
+    "input": "1 tablespoon chopped fresh basil or 1 teaspoon dried",
+    "name": "basil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped fresh or 1 teaspoon dried"
+  },
+  {
+    "index": 365,
+    "input": "1 6-ounce can tomato paste",
+    "name": "tomato paste",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "1 6-ounce can"
+  },
+  {
+    "index": 366,
+    "input": "28 ounces no-salt-added whole tomatoes",
+    "name": "tomatoes",
+    "qty": 28,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "no-salt-added whole"
+  },
+  {
+    "index": 367,
+    "input": "1 pound mushrooms, chopped",
+    "name": "mushrooms",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "chopped"
+  },
+  {
+    "index": 368,
+    "input": "1/2 cup chopped carrots",
+    "name": "carrots",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped"
+  },
+  {
+    "index": 369,
+    "input": "2 large cloves of garlic, minced",
+    "name": "garlic",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "large, minced"
+  },
+  {
+    "index": 370,
+    "input": "3/4 pound chopped onion",
+    "name": "onion",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "chopped"
+  },
+  {
+    "index": 371,
+    "input": "1 tablespoon olive oil",
+    "name": "olive oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 372,
+    "input": "1 pound extra-lean ground beef",
+    "name": "beef",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "extra-lean ground"
+  },
+  {
+    "index": 373,
+    "input": "olive oil for grilling",
+    "name": "olive oil",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for grilling"
+  },
+  {
+    "index": 374,
+    "input": "6 swordfish steaks, 1-inch-thick",
+    "name": "swordfish",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": "steaks, 1-inch-thick"
+  },
+  {
+    "index": 375,
+    "input": "8 anchovy fillets, dried on paper towels",
+    "name": "anchovy",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": "fillets, dried on paper towels"
+  },
+  {
+    "index": 376,
+    "input": "1/3 cup chopped cornichons",
+    "name": "cornichons",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped"
+  },
+  {
+    "index": 377,
+    "input": "1 cup diced red onion",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "diced red"
+  },
+  {
+    "index": 378,
+    "input": "2 tablespoons capers",
+    "name": "capers",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 379,
+    "input": "1 tablespoon dijon mustard",
+    "name": "dijon mustard",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 380,
+    "input": "grated rind from 2 lemons",
+    "name": "lemons",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "grated rind from"
+  },
+  {
+    "index": 381,
+    "input": "juice of 1 lemon",
+    "name": "lemon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "juice of"
+  },
+  {
+    "index": 382,
+    "input": "3/4 cup extra virgin olive oil",
+    "name": "olive oil",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "extra virgin"
+  },
+  {
+    "index": 383,
+    "input": "1 1/2 large bunches flat-leaf parsley",
+    "name": "parsley",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "bunch",
+    "comment": "large flat-leaf"
+  },
+  {
+    "index": 384,
+    "input": "sea salt and freshly ground black pepper",
+    "name": "sea salt and black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 385,
+    "input": "30 or more basil leaves",
+    "name": "basil leaves",
+    "qty": 30,
+    "range_end": 0,
+    "unit": "",
+    "comment": "or more"
+  },
+  {
+    "index": 386,
+    "input": "6 cups chicken or vegetable stock",
+    "name": "stock",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chicken or vegetable"
+  },
+  {
+    "index": 387,
+    "input": "8 ounces stale italian or sourdough bread, torn into 1-inch pieces",
+    "name": "stale bread",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "italian or sourdough, torn into 1-inch pieces"
+  },
+  {
+    "index": 388,
+    "input": "1 2-pound-3-ounce can best-quality italian tomatoes",
+    "name": "tomatoes",
+    "qty": 35,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "1 2-pound-3-ounce can best-quality italian"
+  },
+  {
+    "index": 389,
+    "input": "4 large cloves garlic, crushed",
+    "name": "garlic",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "large, crushed"
+  },
+  {
+    "index": 390,
+    "input": "4 tablespoons extra virgin olive oil, plus additional oil for topping (optional)",
+    "name": "olive oil",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "extra virgin, plus additional oil for topping (optional)"
+  },
+  {
+    "index": 391,
+    "input": "1 tablespoon olive oil",
+    "name": "olive oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 392,
+    "input": "2 tablespoons fresh coriander leaves plus 4 coriander sprigs",
+    "name": "fresh coriander leaves",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "plus 4 coriander sprigs"
+  },
+  {
+    "index": 393,
+    "input": "2 jalapeno or serrano chilies, seeded and minced",
+    "name": "jalapeno or serrano chilies, seeded and minced",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 394,
+    "input": "1 small red onion, finely diced",
+    "name": "small red onion, finely diced",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 395,
+    "input": "4 tablespoons lime juice",
+    "name": "lime juice",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 396,
+    "input": "3 small ripe avocados, skinned and pitted",
+    "name": "avocados",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "small ripe, skinned and pitted"
+  },
+  {
+    "index": 397,
+    "input": "salt and freshly ground black pepper",
+    "name": "salt and black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 398,
+    "input": "1/2 cup coarsely grated parmigiano-reggiano",
+    "name": "parmigiano-reggiano, coarsely grated",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 399,
+    "input": "4 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 400,
+    "input": "1 1/2 cups instant polenta",
+    "name": "polenta, instant",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 401,
+    "input": "1 tablespoon sesame paste (tahini)",
+    "name": "sesame paste",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "(tahini)"
+  },
+  {
+    "index": 402,
+    "input": "2 garlic cloves, peeled and crushed",
+    "name": "garlic",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "peeled and crushed"
+  },
+  {
+    "index": 403,
+    "input": "1 1/2 teaspoons ground cumin",
+    "name": "ground cumin",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 404,
+    "input": "salt and freshly ground black pepper",
+    "name": "salt and freshly ground black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 405,
+    "input": "juice of 1 large lemon",
+    "name": "juice of 1 lemon",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 406,
+    "input": "1 cup extra-virgin olive oil",
+    "name": "extra-virgin olive oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 407,
+    "input": "2 1 1/2-pound eggplants, peeled and diced",
+    "name": "eggplants (1 1/2-pound each)",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled and diced"
+  },
+  {
+    "index": 408,
+    "input": "1 tablespoon, plus 1 teaspoon, confectioners' sugar",
+    "name": "confectioners' sugar",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 409,
+    "input": "2 medium egg yolks",
+    "name": "egg",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium yolks"
+  },
+  {
+    "index": 410,
+    "input": "6 tablespoons whole milk",
+    "name": "milk",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "whole"
+  },
+  {
+    "index": 411,
+    "input": "4 1/2 ounces bittersweet chocolate, chopped",
+    "name": "chocolate",
+    "qty": 4.5,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "bittersweet, chopped"
+  },
+  {
+    "index": 412,
+    "input": "half a vanilla bean, split lengthwise, seeds scraped",
+    "name": "vanilla bean",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "",
+    "comment": "split lengthwise, seeds scraped"
+  },
+  {
+    "index": 413,
+    "input": "3/4 cup heavy cream",
+    "name": "heavy cream",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 414,
+    "input": "1 small bunch of watercress, to garnish (optional)",
+    "name": "watercress",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "bunch",
+    "comment": "to garnish (optional)"
+  },
+  {
+    "index": 415,
+    "input": "salt, as needed",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "as needed"
+  },
+  {
+    "index": 416,
+    "input": "juice of 1 lemon",
+    "name": "lemon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "juice of"
+  },
+  {
+    "index": 417,
+    "input": "1 2/3 cups white wine",
+    "name": "white wine",
+    "qty": 1.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 418,
+    "input": "freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 419,
+    "input": "6 tablespoons butter, softened",
+    "name": "butter",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "softened"
+  },
+  {
+    "index": 420,
+    "input": "1 bunch rosemary",
+    "name": "rosemary",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "bunch",
+    "comment": ""
+  },
+  {
+    "index": 421,
+    "input": "20 anchovy fillets in oil, drained",
+    "name": "anchovy",
+    "qty": 20,
+    "range_end": 0,
+    "unit": "fillet",
+    "comment": "in oil, drained"
+  },
+  {
+    "index": 422,
+    "input": "4 large garlic cloves, peeled and sliced lengthwise into thirds",
+    "name": "garlic",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "peeled and sliced lengthwise into thirds"
+  },
+  {
+    "index": 423,
+    "input": "1 4-pound bone-in leg of lamb",
+    "name": "leg of lamb",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "1 4-pound bone-in"
+  },
+  {
+    "index": 424,
+    "input": "splash of champagne (optional)",
+    "name": "splash of champagne",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "(optional)"
+  },
+  {
+    "index": 425,
+    "input": "6 tablespoons chopped mint plus 6 sprigs mint for serving",
+    "name": "mint",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped plus 6 sprigs mint for serving"
+  },
+  {
+    "index": 426,
+    "input": "6 cups freshly squeezed tangerine juice",
+    "name": "tangerine juice",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "freshly squeezed"
+  },
+  {
+    "index": 427,
+    "input": "4 dried figs, quartered",
+    "name": "figs",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "dried, quartered"
+  },
+  {
+    "index": 428,
+    "input": "8 dried turkish apricots, cut in half",
+    "name": "turkish apricots",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": "dried, cut in half"
+  },
+  {
+    "index": 429,
+    "input": "1 firm tart apple",
+    "name": "apple",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "firm tart"
+  },
+  {
+    "index": 430,
+    "input": "3 firm bosc pears",
+    "name": "bosc pears",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "firm"
+  },
+  {
+    "index": 431,
+    "input": "2 2-inch long pieces lemon zest (peeled with a vegetable peeler), preferably meyer lemons",
+    "name": "lemon zest",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "piece",
+    "comment": "2 2-inch long pieces (peeled with a vegetable peeler), preferably meyer"
+  },
+  {
+    "index": 432,
+    "input": "3 star anise",
+    "name": "star anise",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 433,
+    "input": "1 plump vanilla bean, split in half lengthwise",
+    "name": "vanilla bean",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "plump, split in half lengthwise"
+  },
+  {
+    "index": 434,
+    "input": "1 1/4 cup sugar",
+    "name": "sugar",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 435,
+    "input": "1/4 cup coarsely chopped toasted almonds",
+    "name": "almonds",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "coarsely chopped toasted"
+  },
+  {
+    "index": 436,
+    "input": "1/4 teaspoon almond extract",
+    "name": "almond extract",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 437,
+    "input": "1 cup milk",
+    "name": "milk",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 438,
+    "input": "1/4 cup mascarpone cheese",
+    "name": "mascarpone cheese",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 439,
+    "input": "1 tablespoon peeled and minced ginger",
+    "name": "ginger",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "peeled and minced"
+  },
+  {
+    "index": 440,
+    "input": "1/2 cup minced cilantro leaves, plus more for garnish",
+    "name": "cilantro leaves",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "minced, plus more for garnish"
+  },
+  {
+    "index": 441,
+    "input": "1 fresh or dried hot red chile, minced, or 1/4 teaspoon cayenne, or to taste",
+    "name": "red chilies",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "fresh or dried hot, minced, or 1/4 teaspon cayenne, or to taste"
+  },
+  {
+    "index": 442,
+    "input": "freshly ground black pepper to taste",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 443,
+    "input": "2 tablespoons peanut or other oil",
+    "name": "oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "peanut or other"
+  },
+  {
+    "index": 444,
+    "input": "lime wedges",
+    "name": "lime wedges",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 445,
+    "input": "3/4 cup plus 2 tablespoons sugar",
+    "name": "sugar",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "plus 2 tablespoons"
+  },
+  {
+    "index": 446,
+    "input": "1/4 teaspoon salt",
+    "name": "salt",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 447,
+    "input": "6 tablespoons butter",
+    "name": "butter",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 448,
+    "input": "8 eggs",
+    "name": "eggs",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 449,
+    "input": "12 to 15 slices brioche or challah bread (all should be about 1/2-inch thick and about 3 inches round; cut accordingly)",
+    "name": "brioche or challah bread",
+    "qty": 12,
+    "range_end": 15,
+    "unit": "slice",
+    "comment": "(all should be about 1/2-inch thick and about 3 inches round; cut accordingly)"
+  },
+  {
+    "index": 450,
+    "input": "salt to taste",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "to taste"
+  },
+  {
+    "index": 451,
+    "input": "1 1/2 pounds fillet of cod or other mild, delicate white fish",
+    "name": "cod",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "fillet of or other mild, delicate white fish"
+  },
+  {
+    "index": 452,
+    "input": "1 baking potato weighing about 1/2 pound",
+    "name": "potato",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "baking weighing about 1/2 pound"
+  },
+  {
+    "index": 453,
+    "input": "plain yogurt for serving",
+    "name": "yogurt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "plain for serving"
+  },
+  {
+    "index": 454,
+    "input": "3/4 cup diced mango for serving",
+    "name": "mango",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "diced for serving"
+  },
+  {
+    "index": 455,
+    "input": "3/4 cup diced pineapple or sliced strawberries for serving",
+    "name": "pineapple",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "diced or sliced strawberries for serving"
+  },
+  {
+    "index": 456,
+    "input": "2 tablespoons pomegranate seeds",
+    "name": "pomegranate seeds",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 457,
+    "input": "2 star fruits",
+    "name": "fruits",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "star"
+  },
+  {
+    "index": 458,
+    "input": "2 bananas, peeled and sliced",
+    "name": "bananas",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled and sliced"
+  },
+  {
+    "index": 459,
+    "input": "2 cups pure pomegranate juice (see note)",
+    "name": "pomegranate juice",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "pure (see note)"
+  },
+  {
+    "index": 460,
+    "input": "9 sheets (3/4 ounce) leaf gelatin (see note)",
+    "name": "leaf gelatin",
+    "qty": 9,
+    "range_end": 0,
+    "unit": "sheet",
+    "comment": "3/4 ounce see note"
+  },
+  {
+    "index": 461,
+    "input": "1 3/4 ounces (about 1 1/4 cups) dried hibiscus flowers (see note)",
+    "name": "hibiscus flowers",
+    "qty": 1.75,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "(about 1 1/4 cups) dried (see note)"
+  },
+  {
+    "index": 462,
+    "input": "1 1/4 cups sugar",
+    "name": "sugar",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 463,
+    "input": "2 cups bottled water",
+    "name": "water",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "bottled"
+  },
+  {
+    "index": 464,
+    "input": "1 teaspoon vanilla extract",
+    "name": "vanilla extract",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 465,
+    "input": "3 tablespoons confectioners' sugar",
+    "name": "confectioners' sugar",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 466,
+    "input": "1 cup heavy cream",
+    "name": "heavy cream",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 467,
+    "input": "2 tablespoons grand marnier",
+    "name": "grand marnier",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 468,
+    "input": "1 1/2 cups blueberries",
+    "name": "blueberries",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 469,
+    "input": "creme chantilly",
+    "name": "creme chantilly",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 470,
+    "input": "4 tablespoons melted butter for brushing",
+    "name": "butter",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "melted for brushing"
+  },
+  {
+    "index": 471,
+    "input": "2 teaspoons vanilla extract",
+    "name": "vanilla extract",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 472,
+    "input": "4 tablespoons sweet butter, melted",
+    "name": "butter",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "sweet, melted"
+  },
+  {
+    "index": 473,
+    "input": "1/2 cup cold water",
+    "name": "water",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "cold"
+  },
+  {
+    "index": 474,
+    "input": "pinch of salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": ""
+  },
+  {
+    "index": 475,
+    "input": "2 cups low-fat milk",
+    "name": "milk",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "low-fat"
+  },
+  {
+    "index": 476,
+    "input": "1/4 cup sugar",
+    "name": "sugar",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 477,
+    "input": "4 eggs",
+    "name": "eggs",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 478,
+    "input": "2 cups fresh raspberries or strawberries",
+    "name": "raspberries",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fresh or strawberries"
+  },
+  {
+    "index": 479,
+    "input": "2 tablespoons cognac",
+    "name": "cognac",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 480,
+    "input": "28 to 32 store-bought ladyfingers",
+    "name": "ladyfingers",
+    "qty": 28,
+    "range_end": 32,
+    "unit": "",
+    "comment": "store-bought"
+  },
+  {
+    "index": 481,
+    "input": "1/2 cup chopped marron glace (french candied chestnuts), see note",
+    "name": "marron glace",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped (french candied chestnuts), see note"
+  },
+  {
+    "index": 482,
+    "input": "creme chantilly",
+    "name": "creme chantilly",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 483,
+    "input": "1/4 cup warm water",
+    "name": "water",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "warm"
+  },
+  {
+    "index": 484,
+    "input": "2 1/4-ounce packages unflavored gelatin",
+    "name": "unflavored gelatin",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "2 packages"
+  },
+  {
+    "index": 485,
+    "input": "1 cup creme de marron (french chestnut puree), see note",
+    "name": "creme de marron",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "(french chestnut puree), see note"
+  },
+  {
+    "index": 486,
+    "input": "pinch of salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": ""
+  },
+  {
+    "index": 487,
+    "input": "1 vanilla bean, split in half",
+    "name": "vanilla bean",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "split in half"
+  },
+  {
+    "index": 488,
+    "input": "10 egg yolks",
+    "name": "egg",
+    "qty": 10,
+    "range_end": 0,
+    "unit": "",
+    "comment": "yolks"
+  },
+  {
+    "index": 489,
+    "input": "1 1/4 cup sugar",
+    "name": "sugar",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 490,
+    "input": "3 cups milk",
+    "name": "milk",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 491,
+    "input": "12 to 16 ladyfingers, store-bought",
+    "name": "ladyfingers",
+    "qty": 12,
+    "range_end": 16,
+    "unit": "",
+    "comment": "store-bought"
+  },
+  {
+    "index": 492,
+    "input": "1 can (16 ounces) pears in syrup",
+    "name": "pears",
+    "qty": 16,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "1 can in syrup"
+  },
+  {
+    "index": 493,
+    "input": "2 tablespoons dark rum",
+    "name": "rum",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "dark"
+  },
+  {
+    "index": 494,
+    "input": "powdered sugar",
+    "name": "powdered sugar",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 495,
+    "input": "2 tablespoons water",
+    "name": "water",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 496,
+    "input": "1/2 teaspoon vanilla extract",
+    "name": "vanilla extract",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 497,
+    "input": "1/4 cup sugar",
+    "name": "sugar",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 498,
+    "input": "pinch of salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": ""
+  },
+  {
+    "index": 499,
+    "input": "1 1/4-ounce package, plus 1 teaspoon, unflavored gelatin",
+    "name": "unflavored gelatin",
+    "qty": 2.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "1 package, plus 1 teaspoon"
+  },
+  {
+    "index": 500,
+    "input": "pinch of salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": ""
+  },
+  {
+    "index": 501,
+    "input": "1 vanilla bean, split in half",
+    "name": "vanilla bean",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "split in half"
+  },
+  {
+    "index": 502,
+    "input": "1 1/2 cup milk",
+    "name": "milk",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 503,
+    "input": "3/4 cup sugar",
+    "name": "sugar",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 504,
+    "input": "5 egg yolks",
+    "name": "egg",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "",
+    "comment": "yolks"
+  },
+  {
+    "index": 505,
+    "input": "coarse salt and freshly ground pepper to taste",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "coarse freshly ground to taste"
+  },
+  {
+    "index": 506,
+    "input": "1 to 2 cups chicken stock, preferably homemade",
+    "name": "chicken stock",
+    "qty": 1,
+    "range_end": 2,
+    "unit": "cup",
+    "comment": "preferably homemade"
+  },
+  {
+    "index": 507,
+    "input": "2 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 508,
+    "input": "1 pound chestnuts, peeled",
+    "name": "chestnuts",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "peeled"
+  },
+  {
+    "index": 509,
+    "input": "2 pounds brussels sprouts",
+    "name": "brussels sprouts",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 510,
+    "input": "1 lemon, halved",
+    "name": "lemon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "halved"
+  },
+  {
+    "index": 511,
+    "input": "1 8- to 10-pound goose",
+    "name": "goose",
+    "qty": 8,
+    "range_end": 10,
+    "unit": "pound",
+    "comment": "1 8- to 10-pound"
+  },
+  {
+    "index": 512,
+    "input": "coarse salt and freshly ground pepper to taste",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "coarse freshly ground to taste"
+  },
+  {
+    "index": 513,
+    "input": "1 cup white bread crumbs",
+    "name": "white bread crumbs",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 514,
+    "input": "1 pound cooking apples, peeled, cored and chopped",
+    "name": "cooking apples",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "peeled, cored and chopped"
+  },
+  {
+    "index": 515,
+    "input": "dash sage",
+    "name": "sage",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "dash",
+    "comment": ""
+  },
+  {
+    "index": 516,
+    "input": "1/4 teaspoon thyme",
+    "name": "thyme",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 517,
+    "input": "4 tablespoons parsley, chopped",
+    "name": "parsley",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped"
+  },
+  {
+    "index": 518,
+    "input": "6 stalks celery, chopped",
+    "name": "celery",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "stalk",
+    "comment": "chopped"
+  },
+  {
+    "index": 519,
+    "input": "2 cloves garlic, minced",
+    "name": "garlic",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "minced"
+  },
+  {
+    "index": 520,
+    "input": "1 medium onion, chopped",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, chopped"
+  },
+  {
+    "index": 521,
+    "input": "2 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 522,
+    "input": "1 cup port or madeira",
+    "name": "port",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "or madeira"
+  },
+  {
+    "index": 523,
+    "input": "1 pound prunes, pitted",
+    "name": "prunes",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "pitted"
+  },
+  {
+    "index": 524,
+    "input": "lemon juice to taste",
+    "name": "lemon juice",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "to taste"
+  },
+  {
+    "index": 525,
+    "input": "coarse salt to taste",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "coarse to taste"
+  },
+  {
+    "index": 526,
+    "input": "1/2 teaspoon powdered ginger",
+    "name": "ginger",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "powdered"
+  },
+  {
+    "index": 527,
+    "input": "cayenne pepper to taste",
+    "name": "cayenne pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "to taste"
+  },
+  {
+    "index": 528,
+    "input": "dash freshly grated nutmeg",
+    "name": "nutmeg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "dash",
+    "comment": "freshly grated"
+  },
+  {
+    "index": 529,
+    "input": "1 teaspoon ground mace",
+    "name": "mace",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 530,
+    "input": "1 clove garlic, crushed",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "crushed"
+  },
+  {
+    "index": 531,
+    "input": "1 pound small shrimp, shelled",
+    "name": "shrimp",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "small, shelled"
+  },
+  {
+    "index": 532,
+    "input": "1/2 pound unsalted butter",
+    "name": "unsalted butter",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 533,
+    "input": "1 medium-size red onion, about 1/2 pound, cut into thin rings",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium-size red, about 1/2 pound, cut into thin rings"
+  },
+  {
+    "index": 534,
+    "input": "2 medium-size tomatoes, about 3/4 pound, cored and cut into small wedges",
+    "name": "tomatoes",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium-size, about 3/4 pound, cored and cut into small wedges"
+  },
+  {
+    "index": 535,
+    "input": "1 whole cucumber, about 1/2 pound, peeled and cut into thin rounds",
+    "name": "cucumber",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "whole, about 1/2 pound, peeled and cut into thin rounds"
+  },
+  {
+    "index": 536,
+    "input": "1 cup coarsely chopped, trimmed scallions, green part and all",
+    "name": "scallions",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "coarsely chopped, trimmed, green part and all"
+  },
+  {
+    "index": 537,
+    "input": "8 cups reasonably packed romaine lettuce leaves broken into fairly large, bite-size pieces",
+    "name": "lettuce leaves",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "reasonably packed romaine broken into fairly large, bite-size pieces"
+  },
+  {
+    "index": 538,
+    "input": "1/2 teaspoon dried hot red-pepper flakes",
+    "name": "red-pepper flakes",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "dried hot"
+  },
+  {
+    "index": 539,
+    "input": "8 sprigs fresh coriander with stems and leaves",
+    "name": "coriander",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "sprig",
+    "comment": "fresh with stems and leaves"
+  },
+  {
+    "index": 540,
+    "input": "1 tablespoon finely minced garlic",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "finely minced"
+  },
+  {
+    "index": 541,
+    "input": "1/2 cup fish sauce",
+    "name": "fish sauce",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 542,
+    "input": "1 cup freshly squeezed lime juice",
+    "name": "lime juice",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "freshly squeezed"
+  },
+  {
+    "index": 543,
+    "input": "2 tablespoons corn, peanut or vegetable oil",
+    "name": "oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "corn, peanut or vegetable"
+  },
+  {
+    "index": 544,
+    "input": "1/2 pound lean, tender beef, preferably fillet of beef",
+    "name": "beef",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "lean, tender, preferably fillet"
+  },
+  {
+    "index": 545,
+    "input": "2 pounds pears (or apples), peeled, cored and sliced",
+    "name": "pears",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "(or apples), peeled, cored and sliced"
+  },
+  {
+    "index": 546,
+    "input": "1 tablespoon vinegar (sherry, champagne or white wine vinegar)",
+    "name": "vinegar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "(sherry, champagne or white wine vinegar)"
+  },
+  {
+    "index": 547,
+    "input": "2 cups not-too-dry white wine, like gewürztraminer or riesling",
+    "name": "not-too-dry dry white wine",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "like gewürztraminer or riesling"
+  },
+  {
+    "index": 548,
+    "input": "1/2 pound dried pears or apples",
+    "name": "dried pears or apples",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 549,
+    "input": "a few thyme sprigs",
+    "name": "thyme",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "a few sprigs"
+  },
+  {
+    "index": 550,
+    "input": "4 bay leaves",
+    "name": "bay leaves",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 551,
+    "input": "2 large onions, roughly chopped",
+    "name": "large onions",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "roughly chopped"
+  },
+  {
+    "index": 552,
+    "input": "1/2 cup diced bacon or pancetta, optional",
+    "name": "diced bacon or pancetta",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "optional"
+  },
+  {
+    "index": 553,
+    "input": "salt and freshly ground pepper",
+    "name": "salt and freshly ground pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 554,
+    "input": "1 goose, cut into serving pieces, excess fat removed",
+    "name": "goose",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "cut into serving pieces, excess fat removed"
+  },
+  {
+    "index": 555,
+    "input": "8 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 556,
+    "input": "1/8 teaspoon vanilla extract",
+    "name": "vanilla extract",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 557,
+    "input": "1/2 cup milk",
+    "name": "milk",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 558,
+    "input": "1/2 cup all-purpose flour",
+    "name": "all-purpose flour",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 559,
+    "input": "3 large eggs",
+    "name": "eggs",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large"
+  },
+  {
+    "index": 560,
+    "input": "1/2 teaspoon ground cinnamon",
+    "name": "cinnamon",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 561,
+    "input": "scant 1/2 cup sugar plus 1 1/2 tablespoons sugar",
+    "name": "sugar",
+    "qty": 9.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "scant"
+  },
+  {
+    "index": 562,
+    "input": "1 large granny smith apple",
+    "name": "granny smith apple",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large"
+  },
+  {
+    "index": 563,
+    "input": "1 teaspoon garam masala (optional)",
+    "name": "garam masala",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "optional"
+  },
+  {
+    "index": 564,
+    "input": "2 pinches cayenne",
+    "name": "cayenne",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": ""
+  },
+  {
+    "index": 565,
+    "input": "2 tablespoons lemon juice",
+    "name": "lemon juice",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 566,
+    "input": "2 teaspoons salt",
+    "name": "salt",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 567,
+    "input": "2 onions, halved and thinly sliced crosswise",
+    "name": "onions",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "halved and thinly sliced crosswise"
+  },
+  {
+    "index": 568,
+    "input": "2 teaspoons sesame seeds",
+    "name": "sesame seeds",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 569,
+    "input": "1 tablespoon cumin or caraway seeds",
+    "name": "seeds",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "cumin or caraway"
+  },
+  {
+    "index": 570,
+    "input": "6 tablespoons vegetable oil",
+    "name": "vegetable oil",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 571,
+    "input": "1 large head green cabbage",
+    "name": "cabbage",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "head",
+    "comment": "green"
+  },
+  {
+    "index": 572,
+    "input": "2 cloves garlic, crushed",
+    "name": "garlic",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "crushed"
+  },
+  {
+    "index": 573,
+    "input": "1/4 cup olive oil",
+    "name": "olive oil",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 574,
+    "input": "4 pounds chard, red or green",
+    "name": "chard",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "red or green"
+  },
+  {
+    "index": 575,
+    "input": "salt and pepper",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 576,
+    "input": "2 teaspoons black or mixed peppercorns, bruised; more for garnish",
+    "name": "peppercorns",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "black or mixed, bruised; more for garnish"
+  },
+  {
+    "index": 577,
+    "input": "1 tablespoon sugar",
+    "name": "sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 578,
+    "input": "1/2 teaspoon red pepper flakes",
+    "name": "red pepper flakes",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 579,
+    "input": "4 thyme sprigs",
+    "name": "thyme",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "sprig",
+    "comment": ""
+  },
+  {
+    "index": 580,
+    "input": "2 bay leaves",
+    "name": "bay leaves",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 581,
+    "input": "1 1/2 cups white wine vinegar",
+    "name": "white wine vinegar",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 582,
+    "input": "2 large red onions, peeled and sliced into thick rings, rings separated",
+    "name": "onions",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large red, peeled and sliced into thick rings, rings separated"
+  },
+  {
+    "index": 583,
+    "input": "salt and pepper",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 584,
+    "input": "2 teaspoons fresh thyme leaves, plus more for garnish",
+    "name": "thyme leaves",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "fresh, plus more for garnish"
+  },
+  {
+    "index": 585,
+    "input": "2 shallots, diced",
+    "name": "shallots",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "diced"
+  },
+  {
+    "index": 586,
+    "input": "3 tablespoons butter",
+    "name": "butter",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 587,
+    "input": "40 radishes (green tops optional)",
+    "name": "radishes",
+    "qty": 40,
+    "range_end": 0,
+    "unit": "",
+    "comment": "green tops optional"
+  },
+  {
+    "index": 588,
+    "input": "4 medium-size garlic cloves, minced",
+    "name": "garlic",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "minced"
+  },
+  {
+    "index": 589,
+    "input": "1/4 cup minced fresh ginger (about 6 inches ginger root, peeled)",
+    "name": "ginger",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "minced fresh(about 6 inches ginger root, peeled)"
+  },
+  {
+    "index": 590,
+    "input": "4 tablespoons vegetable oil",
+    "name": "vegetable oil",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 591,
+    "input": "2 1/2 pounds string beans (french-style slim haricots verts work especially well), trimmed",
+    "name": "string beans",
+    "qty": 2.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "(french-style slim haricots verts work especially well), trimmed"
+  },
+  {
+    "index": 592,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 593,
+    "input": "salt and pepper to taste",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "to taste"
+  },
+  {
+    "index": 594,
+    "input": "1/4 cup dry white wine or vermouth",
+    "name": "dry white wine",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "or vermouth"
+  },
+  {
+    "index": 595,
+    "input": "2 tablespoons black mustard seeds, cumin seeds, or poppy seeds",
+    "name": "seeds",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "black mustard or poppy seeds"
+  },
+  {
+    "index": 596,
+    "input": "3 garlic cloves, minced",
+    "name": "garlic",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "minced"
+  },
+  {
+    "index": 597,
+    "input": "2 tablespoons butter",
+    "name": "butter",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 598,
+    "input": "2 tablespoons olive oil",
+    "name": "olive oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 599,
+    "input": "2 to 3 pounds brussels sprouts",
+    "name": "brussels sprouts",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "to 3 pounds"
+  },
+  {
+    "index": 600,
+    "input": "grated zest of 1 lemon",
+    "name": "lemon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 601,
+    "input": "2 tablespoons freshly squeezed lemon juice, more to taste",
+    "name": "lemon juice",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "freshly squeezed, more to taste"
+  },
+  {
+    "index": 602,
+    "input": "flour for dredging",
+    "name": "flour",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for dredging"
+  },
+  {
+    "index": 603,
+    "input": "2 tablespoons unsalted butter",
+    "name": "butter",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "unsalted"
+  },
+  {
+    "index": 604,
+    "input": "1 clove garlic, minced",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "minced"
+  },
+  {
+    "index": 605,
+    "input": "1/2 pound chanterelles",
+    "name": "chanterelles",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 606,
+    "input": "3 tablespoons creme fraiche",
+    "name": "creme fraiche",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 607,
+    "input": "2 tablespoons fresh tarragon (if available)",
+    "name": "tarragon",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "fresh (if available)"
+  },
+  {
+    "index": 608,
+    "input": "2 tablespoons chopped parsley",
+    "name": "parsley",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped"
+  },
+  {
+    "index": 609,
+    "input": "1 medium-size orange, peeled and sectioned",
+    "name": "orange",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium-size, peeled and sectioned"
+  },
+  {
+    "index": 610,
+    "input": "1/3 cup chopped red onion",
+    "name": "onion",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped red"
+  },
+  {
+    "index": 611,
+    "input": "salt and freshly ground pepper to taste",
+    "name": "salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 612,
+    "input": "2 tablespoons red-wine vinegar",
+    "name": "red-wine vinegar",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 613,
+    "input": "1/3 cup olive or vegetable or corn oil",
+    "name": "oil",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "olive or vegetable or corn"
+  },
+  {
+    "index": 614,
+    "input": "2 teaspoons dijon-style mustard",
+    "name": "dijon-style mustard",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 615,
+    "input": "2 endives",
+    "name": "endives",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 616,
+    "input": "4 tablespoons grated parmesan or pecorino cheese",
+    "name": "cheese",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "grated parmesan or pecorino"
+  },
+  {
+    "index": 617,
+    "input": "1 bunch watercress, washed and drained",
+    "name": "watercress",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "bunch",
+    "comment": "washed and drained"
+  },
+  {
+    "index": 618,
+    "input": "4 tablespoons coarsely chopped italian parsley",
+    "name": "parsley",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "coarsely chopped italian"
+  },
+  {
+    "index": 619,
+    "input": "1/8 teaspoon red hot pepper flakes, optional",
+    "name": "red hot pepper flakes",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "optional"
+  },
+  {
+    "index": 620,
+    "input": "3/4 cup heavy cream",
+    "name": "heavy cream",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 621,
+    "input": "2 teaspoons chopped fresh oregano or 1 teaspoon dried",
+    "name": "oregano",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "chopped fresh or 1 teaspoon dried"
+  },
+  {
+    "index": 622,
+    "input": "2 teaspoons chopped fresh rosemary or 1 teaspoon dried",
+    "name": "rosemary",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "chopped fresh or 1 teaspoon dried"
+  },
+  {
+    "index": 623,
+    "input": "3 red ripe tomatoes, about 1 pound, peeled and cut into 1/2-inch cubes",
+    "name": "tomatoes",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "red ripe, about 1 pound, peeled and cut into 1/2-inch cubes"
+  },
+  {
+    "index": 624,
+    "input": "1 tablespoon finely chopped garlic",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "finely chopped"
+  },
+  {
+    "index": 625,
+    "input": "2 tablespoons olive oil",
+    "name": "olive oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 626,
+    "input": "freshly ground pepper to taste",
+    "name": "pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 627,
+    "input": "salt to taste",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "to taste"
+  },
+  {
+    "index": 628,
+    "input": "3/4 pound cut ziti",
+    "name": "ziti",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "cut"
+  },
+  {
+    "index": 629,
+    "input": "1 bunch broccoli, about 1 1/4 pounds",
+    "name": "broccoli",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "bunch",
+    "comment": "about 1 1/4 pounds"
+  },
+  {
+    "index": 630,
+    "input": "2 skinless boneless chicken breasts, about 1 pound",
+    "name": "chicken breasts",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "skinless boneless, about 1 pound"
+  },
+  {
+    "index": 631,
+    "input": "2 tablespoons parmesan cheese",
+    "name": "parmesan cheese",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 632,
+    "input": "1/2 teaspoon freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 633,
+    "input": "3/4 teaspoon salt",
+    "name": "salt",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 634,
+    "input": "1 tablespoon unsalted butter",
+    "name": "unsalted butter",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 635,
+    "input": "2 tablespoons olive oil",
+    "name": "olive oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 636,
+    "input": "1 butternut squash (about 3 pounds)",
+    "name": "butternut squash",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "about 3 pounds"
+  },
+  {
+    "index": 637,
+    "input": "2 tablespoons chopped parsley",
+    "name": "parsley",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped"
+  },
+  {
+    "index": 638,
+    "input": "1/4 teaspoon freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 639,
+    "input": "1 teaspoon salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 640,
+    "input": "1 1/2 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 641,
+    "input": "2 tablespoons lemon juice",
+    "name": "lemon juice",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 642,
+    "input": "2 ounces (1 can) flat anchovy fillets",
+    "name": "anchovy",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "(1 can) flat fillets"
+  },
+  {
+    "index": 643,
+    "input": "1 whole (double) turkey breast (see note), including the wings, about 5 pounds; or 6 boneless turkey steaks; or 2 to 2 1/4 pounds of other turkey meat",
+    "name": "turkey breast",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "whole (double) (see note), including the wings, about 5 pounds; or 6 boneless turkey steaks; or 2 to 2 1/4 pounds of other turkey meat"
+  },
+  {
+    "index": 644,
+    "input": "1/3 cup salted pistachio nuts, coarsely ground",
+    "name": "pistachio nuts",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "salted, coarsely ground"
+  },
+  {
+    "index": 645,
+    "input": "sea salt",
+    "name": "sea salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 646,
+    "input": "1/4 teaspoon freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 647,
+    "input": "1/3 cup chopped mint",
+    "name": "mint",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped"
+  },
+  {
+    "index": 648,
+    "input": "1/2 cup finely sliced celery hearts, with leaves",
+    "name": "celery",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "finely sliced hearts, with leaves"
+  },
+  {
+    "index": 649,
+    "input": "1 teaspoon toasted and ground cumin seeds",
+    "name": "cumin seeds",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "toasted and ground"
+  },
+  {
+    "index": 650,
+    "input": "1 teaspoon toasted and ground coriander seeds",
+    "name": "coriander seeds",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "toasted and ground"
+  },
+  {
+    "index": 651,
+    "input": "1/2 cup grated pecorino romano, preferably fulvi",
+    "name": "pecorino romano",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "grated, preferably fulvi"
+  },
+  {
+    "index": 652,
+    "input": "grated zest of 1 lemon",
+    "name": "lemon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "grated zested of"
+  },
+  {
+    "index": 653,
+    "input": "1 tablespoon lemon juice",
+    "name": "lemon juice",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 654,
+    "input": "1/2 cup goat cheese (ché,vre), (4 ounces), softened",
+    "name": "goat cheese",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "(chèvre), (4 ounces), softened"
+  },
+  {
+    "index": 655,
+    "input": "1 cup cream cheese (8 ounces), softened",
+    "name": "cream cheese",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "(8 ounces), softened"
+  },
+  {
+    "index": 656,
+    "input": "1 nutmeg",
+    "name": "nutmeg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 657,
+    "input": "pinch sea salt",
+    "name": "sea salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": ""
+  },
+  {
+    "index": 658,
+    "input": "6 fresh egg whites",
+    "name": "egg",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": "fresh whites"
+  },
+  {
+    "index": 659,
+    "input": "1 cup cream",
+    "name": "cream",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 660,
+    "input": "1 1/2 cups milk",
+    "name": "milk",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 661,
+    "input": "2 cups good quality bourbon",
+    "name": "bourbon",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "good quality"
+  },
+  {
+    "index": 662,
+    "input": "6 fresh egg yolks",
+    "name": "egg",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": "fresh yolks"
+  },
+  {
+    "index": 663,
+    "input": "1 cup confectioners' sugar",
+    "name": "confectioners' sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 664,
+    "input": "1/3 cup armagnac, bourbon or whiskey",
+    "name": "armagnac",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "bourbon or whiskey"
+  },
+  {
+    "index": 665,
+    "input": "white corn syrup",
+    "name": "white corn syrup",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 666,
+    "input": "2 cups shelled walnuts",
+    "name": "walnuts",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "shelled"
+  },
+  {
+    "index": 667,
+    "input": "2 1/2 cups shelled pecans",
+    "name": "pecans",
+    "qty": 2.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "shelled"
+  },
+  {
+    "index": 668,
+    "input": "1 cup shelled almonds",
+    "name": "almonds",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "shelled"
+  },
+  {
+    "index": 669,
+    "input": "2 cups shelled salted pistachios",
+    "name": "pistachios",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "shelled salted"
+  },
+  {
+    "index": 670,
+    "input": "2 teaspoons almond extract",
+    "name": "almond extract",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 671,
+    "input": "1 cup granulated sugar",
+    "name": "sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "granulated"
+  },
+  {
+    "index": 672,
+    "input": "4 eggs",
+    "name": "eggs",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 673,
+    "input": "1/2 teaspoon kosher salt",
+    "name": "salt",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 674,
+    "input": "2 teaspoons double acting baking powder",
+    "name": "baking powder",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "double acting"
+  },
+  {
+    "index": 675,
+    "input": "2 cups sifted all-purpose flour",
+    "name": "all-purpose flour",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "sifted"
+  },
+  {
+    "index": 676,
+    "input": "1 cup chopped candied orange peel, or 1/4 cup freshly grated orange zest",
+    "name": "orange peel",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped candied, or 1/4 cup freshly grated orange zested"
+  },
+  {
+    "index": 677,
+    "input": "1 pound candied cherries",
+    "name": "cherries",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "candied"
+  },
+  {
+    "index": 678,
+    "input": "1 pound candied pineapple",
+    "name": "pineapple",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "candied"
+  },
+  {
+    "index": 679,
+    "input": "1/2 pound prunes from agen or use more dates",
+    "name": "prunes",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "from agen or use more dates"
+  },
+  {
+    "index": 680,
+    "input": "butter for pans",
+    "name": "butter",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for pans"
+  },
+  {
+    "index": 681,
+    "input": "1 pound pitted medjool dates",
+    "name": "medjool dates",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "pitted"
+  },
+  {
+    "index": 682,
+    "input": "sea salt",
+    "name": "sea salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 683,
+    "input": "grated zest from 2 lemons, preferably meyer; cut lemons into large wedges",
+    "name": "lemons",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "grated zested from, preferably meyer; cut lemons into large wedges"
+  },
+  {
+    "index": 684,
+    "input": "4 ounces butter, softened",
+    "name": "butter",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "softened"
+  },
+  {
+    "index": 685,
+    "input": "3 dozen unshucked oysters, scrubbed",
+    "name": "oysters",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "dozen",
+    "comment": "unshucked scrubbed"
+  },
+  {
+    "index": 686,
+    "input": "3 eggs",
+    "name": "eggs",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 687,
+    "input": "1 cup all-purpose flour",
+    "name": "all-purpose flour",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 688,
+    "input": "1/4 teaspoon salt",
+    "name": "salt",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 689,
+    "input": "1 teaspoon cinnamon",
+    "name": "cinnamon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 690,
+    "input": "1/2 cup or 1 stick butter",
+    "name": "butter",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "or 1 stick"
+  },
+  {
+    "index": 691,
+    "input": "1/2 cup plus 1 tablespoon sugar",
+    "name": "sugar",
+    "qty": 9,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 692,
+    "input": "corn, grapeseed, canola or other neutral oil for frying",
+    "name": "corn oil for frying",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "or grapeseed oil, or canola oil or other neutral oil"
+  },
+  {
+    "index": 693,
+    "input": "1 tablespoon butter",
+    "name": "butter",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 694,
+    "input": "2 eggs plus 2 egg yolks",
+    "name": "eggs",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "plus 2 egg yolks"
+  },
+  {
+    "index": 695,
+    "input": "3/4 cup low-fat milk",
+    "name": "milk",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "low-fat"
+  },
+  {
+    "index": 696,
+    "input": "1 teaspoon fresh thyme leaves",
+    "name": "thyme",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "fresh leaves"
+  },
+  {
+    "index": 697,
+    "input": "2 stalks celery, coarsely chopped",
+    "name": "celery",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "stalk",
+    "comment": "coarsely chopped"
+  },
+  {
+    "index": 698,
+    "input": "2 carrots, peeled, coarsely chopped",
+    "name": "carrots",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled, coarsely chopped"
+  },
+  {
+    "index": 699,
+    "input": "1 small clove garlic, peeled, finely chopped",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "small, peeled, finely chopped"
+  },
+  {
+    "index": 700,
+    "input": "1 small onion, peeled, finely chopped",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "small, peeled, finely chopped"
+  },
+  {
+    "index": 701,
+    "input": "2 medium yams, about 2/3 pound, peeled, coarsely chopped",
+    "name": "yams",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, about 2/3 pound, peeled, coarsely chopped"
+  },
+  {
+    "index": 702,
+    "input": "4 cups chicken broth, homemade or low-sodium canned",
+    "name": "chicken broth",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "homemade or low-sodium canned"
+  },
+  {
+    "index": 703,
+    "input": "4 black peppercorns, crushed",
+    "name": "black peppercorns",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "crushed"
+  },
+  {
+    "index": 704,
+    "input": "1 bay leaf",
+    "name": "bay leaf",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 705,
+    "input": "1 cup fresh mozzarella, cut into 1/4-inch dice",
+    "name": "mozzarella",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fresh, cut into 1/4-inch dice"
+  },
+  {
+    "index": 706,
+    "input": "1 meaty ham hock, quartered",
+    "name": "ham hock",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "meaty, quartered"
+  },
+  {
+    "index": 707,
+    "input": "2 cups bitter greens, like mustard or dandelion, rinsed and shredded",
+    "name": "bitter greens",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "like mustard or dandelion, rinsed and shredded"
+  },
+  {
+    "index": 708,
+    "input": "1/2 teaspoon salt",
+    "name": "salt",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 709,
+    "input": "1 teaspoon freshly ground pepper",
+    "name": "pepper",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 710,
+    "input": "1 tablespoon grated parmesan cheese",
+    "name": "parmesan cheese",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "grated"
+  },
+  {
+    "index": 711,
+    "input": "1 tablespoon minced fresh chives",
+    "name": "chives",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "minced fresh"
+  },
+  {
+    "index": 712,
+    "input": "1/2 cup fresh minced sage leaves",
+    "name": "sage leaves",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fresh minced"
+  },
+  {
+    "index": 713,
+    "input": "10 cups broth (see above)",
+    "name": "broth",
+    "qty": 10,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "see above"
+  },
+  {
+    "index": 714,
+    "input": "3 cups arborio rice",
+    "name": "arborio rice",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 715,
+    "input": "1 white onion, minced",
+    "name": "white onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "minced"
+  },
+  {
+    "index": 716,
+    "input": "1 tablespoon unsalted butter",
+    "name": "unsalted butter",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 717,
+    "input": "1 cup shaved almonds",
+    "name": "almonds",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "shaved"
+  },
+  {
+    "index": 718,
+    "input": "1/8 teaspoon cayenne pepper",
+    "name": "cayenne pepper",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 719,
+    "input": "1/4 teaspoon kosher salt",
+    "name": "kosher salt",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 720,
+    "input": "1 teaspoon water",
+    "name": "water",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 721,
+    "input": "1/2 teaspoon olive oil",
+    "name": "olive oil",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 722,
+    "input": "1 stalk celery, cut into 1-inch pieces",
+    "name": "celery",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "stalk",
+    "comment": "cut into 1-inch pieces"
+  },
+  {
+    "index": 723,
+    "input": "1 carrot, peeled, cut into 1-inch pieces",
+    "name": "carrot",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled, cut into 1-inch pieces"
+  },
+  {
+    "index": 724,
+    "input": "3 medium yams, about 1 pound total, peeled, cut in half",
+    "name": "yams",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, about 1 pound total, peeled, cut in half"
+  },
+  {
+    "index": 725,
+    "input": "1 gallon chicken broth, homemade or low-sodium canned",
+    "name": "chicken broth",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "gallon",
+    "comment": "homemade or low-sodium canned"
+  },
+  {
+    "index": 726,
+    "input": "1 tablespoon butter, cut into small pieces",
+    "name": "butter",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "cut into small pieces"
+  },
+  {
+    "index": 727,
+    "input": "1 tablespoon fresh thyme leaves",
+    "name": "thyme",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "fresh leaves"
+  },
+  {
+    "index": 728,
+    "input": "1/4 teaspoon freshly ground pepper",
+    "name": "pepper",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 729,
+    "input": "1/2 teaspoon salt",
+    "name": "salt",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 730,
+    "input": "2 teaspoons brown sugar",
+    "name": "brown sugar",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 731,
+    "input": "2 cups apple cider",
+    "name": "apple cider",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 732,
+    "input": "3 medium yams, about 1 pound, cut into thin round slices",
+    "name": "yams",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, about 1 pound, cut into thin round slices"
+  },
+  {
+    "index": 733,
+    "input": "3 medium red onions, peeled, cut into paper-thin round slices",
+    "name": "red onion",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, peeled, cut into paper-thin round slices"
+  },
+  {
+    "index": 734,
+    "input": "6 sprigs flat-leaf parsley, stems removed, finely chopped",
+    "name": "flat-leaf parsley",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "sprig",
+    "comment": "stems removed, finely chopped"
+  },
+  {
+    "index": 735,
+    "input": "6 tablespoons plain low-fat yogurt",
+    "name": "plain low-fat yogurt",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 736,
+    "input": "1 teaspoon freshly ground pepper",
+    "name": "pepper",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 737,
+    "input": "1/2 teaspoon salt",
+    "name": "salt",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 738,
+    "input": "1 1/2 quarts chicken broth, homemade or low-sodium canned",
+    "name": "chicken broth",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "quart",
+    "comment": "homemade or low-sodium canned"
+  },
+  {
+    "index": 739,
+    "input": "1 tablespoon fresh thyme leaves",
+    "name": "thyme",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "fresh leaves"
+  },
+  {
+    "index": 740,
+    "input": "1 bay leaf",
+    "name": "bay leaf",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 741,
+    "input": "3 carrots, peeled, coarsely chopped",
+    "name": "carrots",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled, coarsely chopped"
+  },
+  {
+    "index": 742,
+    "input": "1 rib celery, coarsely chopped",
+    "name": "celery rib",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "coarsely chopped"
+  },
+  {
+    "index": 743,
+    "input": "1 small clove garlic, peeled, finely chopped",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "small, peeled, finely chopped"
+  },
+  {
+    "index": 744,
+    "input": "1 red onion, peeled, coarsely chopped",
+    "name": "red onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "peeled, coarsely chopped"
+  },
+  {
+    "index": 745,
+    "input": "6 medium yams, about 2 pounds, peeled, cut into 1-inch chunks",
+    "name": "yams",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, about 2 pounds, peeled, cut into 1-inch chunks"
+  },
+  {
+    "index": 746,
+    "input": "1/2 teaspoon kosher salt",
+    "name": "salt",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 747,
+    "input": "2 medium cloves garlic, smashed, peeled and mashed to a paste",
+    "name": "garlic",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "medium, smashed, peeled and mashed to a paste"
+  },
+  {
+    "index": 748,
+    "input": "3 teaspoons capers, drained",
+    "name": "capers",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "drained"
+  },
+  {
+    "index": 749,
+    "input": "1 1/2 tablespoons fresh lemon juice",
+    "name": "lemon juice",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "fresh"
+  },
+  {
+    "index": 750,
+    "input": "3 tablespoons minced fresh italian parsley leaves",
+    "name": "parsley leaves",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "minced fresh italian"
+  },
+  {
+    "index": 751,
+    "input": "3 tablespoons olive oil",
+    "name": "olive oil",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 752,
+    "input": "3 7-ounce jars roasted red peppers, drained",
+    "name": "red peppers",
+    "qty": 21,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "3 7-ounce jars roasted, drained"
+  },
+  {
+    "index": 753,
+    "input": "1 medium pear, cored, peeled and cut into chunks",
+    "name": "pear",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium, cored, peeled and cut into chunks"
+  },
+  {
+    "index": 754,
+    "input": "2 teaspoons olive oil",
+    "name": "olive oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 755,
+    "input": "2 one-pound pork tenderloins (each 10 inches long and 2 1/2 inches in diameter)",
+    "name": "pork tenderloins",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "one-pound (each 10 inches long and 2 1/2 inches in diameter)"
+  },
+  {
+    "index": 756,
+    "input": "15 grinds fresh black pepper",
+    "name": "black pepper",
+    "qty": 15,
+    "range_end": 0,
+    "unit": "",
+    "comment": "grinds fresh"
+  },
+  {
+    "index": 757,
+    "input": "scant 1/2 teaspoon ground cardamom",
+    "name": "cardamom",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "scant ground"
+  },
+  {
+    "index": 758,
+    "input": "scant 1/2 teaspoon cinnamon",
+    "name": "cinnamon",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "scant"
+  },
+  {
+    "index": 759,
+    "input": "1 1/2 teaspoons kosher salt",
+    "name": "salt",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 760,
+    "input": "6 limes, sliced into thin wedges",
+    "name": "limes",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": "sliced into thin wedges"
+  },
+  {
+    "index": 761,
+    "input": "3 pounds peeled shrimp (20 to 24 a pound)",
+    "name": "shrimp",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "peeled (20 to 24 a pound)"
+  },
+  {
+    "index": 762,
+    "input": "kosher salt, to taste",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "kosher, to taste"
+  },
+  {
+    "index": 763,
+    "input": "6 jalapeno peppers, seeded, de-veined and cut into chunks",
+    "name": "jalapeno peppers",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": "seeded, de-veined and cut into chunks"
+  },
+  {
+    "index": 764,
+    "input": "1 1/4 cups trimmed, washed cilantro plus 75 nice leaves for garnish",
+    "name": "cilantro",
+    "qty": 1.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "trimmed, washed plus 75 nice leaves for garnish"
+  },
+  {
+    "index": 765,
+    "input": "3 tablespoons olive oil",
+    "name": "olive oil",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 766,
+    "input": "8 tablespoons lime juice",
+    "name": "lime juice",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 767,
+    "input": "freshly ground black pepper to taste",
+    "name": "black pepper, freshly ground to taste",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 768,
+    "input": "1 1/2 teaspoons kosher salt",
+    "name": "kosher salt",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 769,
+    "input": "3/4 cup parmesan cheese",
+    "name": "parmesan cheese",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 770,
+    "input": "4 ounces mozzarella cheese diced into 1/4-inch pieces",
+    "name": "mozzarella cheese, diced into 1/4-inch pieces",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 771,
+    "input": "2 tablespoons tomato paste",
+    "name": "tomato paste",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 772,
+    "input": "1/4 cup roughly chopped basil",
+    "name": "basil, roughly chopped",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 773,
+    "input": "2 small cloves garlic, smashed, peeled and minced",
+    "name": "garlic, small, smashed, peeled and minced",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": ""
+  },
+  {
+    "index": 774,
+    "input": "6 small plum tomatoes, stem end cut off, and diced into 1/4-inch pieces",
+    "name": "small plum tomatoes, stem end cut off, and diced into 1/4-inch pieces",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 775,
+    "input": "1 small white boiling onion, peeled and diced in 1/4-inch pieces",
+    "name": "small white boiling onion, peeled and diced in 1/4-inch pieces",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 776,
+    "input": "1 tablespoon olive oil",
+    "name": "olive oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 777,
+    "input": "2 tablespoons honey",
+    "name": "honey",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 778,
+    "input": "6 strips lemon peel, white pith removed, about 1/2 inch wide and 3 1/2 inches long",
+    "name": "lemon peel",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "strip",
+    "comment": "white pith removed, about 1/2 inch wide and 3 1/2 inches long"
+  },
+  {
+    "index": 779,
+    "input": "8 strips of orange peel, white pith removed, about 1/2 inch wide and 3 1/2 inches long",
+    "name": "orange peel",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "strip",
+    "comment": "white pith removed, about 1/2 inch wide and 3 1/2 inches long"
+  },
+  {
+    "index": 780,
+    "input": "4 cups kalamata (preferred) or gaeta olives",
+    "name": "olives",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "kalamata (preferred) or gaeta"
+  },
+  {
+    "index": 781,
+    "input": "2 tablespoons red wine vinegar",
+    "name": "red wine vinegar",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 782,
+    "input": "4 cloves garlic, smashed and peeled",
+    "name": "garlic, smashed and peeled",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": ""
+  },
+  {
+    "index": 783,
+    "input": "6 tablespoons orange juice",
+    "name": "orange juice",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 784,
+    "input": "4 teaspoons fennel seeds",
+    "name": "fennel seeds",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 785,
+    "input": "freshly ground black pepper to taste",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 786,
+    "input": "1/8 teaspoon salt",
+    "name": "salt",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 787,
+    "input": "2 teaspoons dijon mustard",
+    "name": "dijon mustard",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 788,
+    "input": "3/4 cup nonfat buttermilk",
+    "name": "nonfat buttermilk",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 789,
+    "input": "bunch fresh chives to yield 1 tablespoon chopped",
+    "name": "chives",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "bunch fresh to yield 1 tablespoon chopped"
+  },
+  {
+    "index": 790,
+    "input": "1/2 pound cabbage",
+    "name": "cabbage",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 791,
+    "input": "3/4 pound tiny thin-skinned potatoes",
+    "name": "potatoes",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "tiny thin-skinned"
+  },
+  {
+    "index": 792,
+    "input": "1/4 cup dry red wine",
+    "name": "dry red wine",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 793,
+    "input": "8 ounces fresh tuna",
+    "name": "tuna",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "fresh"
+  },
+  {
+    "index": 794,
+    "input": "1/2 teaspoon anchovy paste",
+    "name": "anchovy paste",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 795,
+    "input": "1 teaspoon capers",
+    "name": "capers",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 796,
+    "input": "4 oil-cured olives",
+    "name": "olives",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "oil-cured"
+  },
+  {
+    "index": 797,
+    "input": "1 large clove garlic",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "large"
+  },
+  {
+    "index": 798,
+    "input": "2 teaspoons olive oil",
+    "name": "olive oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 799,
+    "input": "6 ounces whole red onion or 5 ounces chopped, ready-cut onion (1 1/3 cups)",
+    "name": "onion",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "whole red, or 5 ounces chopped, ready-cut onion (1 1/3 cups)"
+  },
+  {
+    "index": 800,
+    "input": "1 teaspoon grated lemon zest",
+    "name": "lemon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "grated zested"
+  },
+  {
+    "index": 801,
+    "input": "1 cup pecans, toasted and chopped",
+    "name": "pecans",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "toasted and chopped"
+  },
+  {
+    "index": 802,
+    "input": "4 cups fresh dates, pitted and cut into 1/2-inch dice",
+    "name": "dates",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fresh, pitted and cut into 1/2-inch dice"
+  },
+  {
+    "index": 803,
+    "input": "8 large granny smith apples, peeled, cored and cut into 1/2-inch slices",
+    "name": "apples",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large granny smith, peeled, cored and cut into 1/2-inch slices"
+  },
+  {
+    "index": 804,
+    "input": "2 teaspoons grated orange zest",
+    "name": "orange",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "grated zested"
+  },
+  {
+    "index": 805,
+    "input": "1 cup unsalted butter, cut into small pieces",
+    "name": "unsalted butter",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "cut into small pieces"
+  },
+  {
+    "index": 806,
+    "input": "1 teaspoon ground nutmeg",
+    "name": "nutmeg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 807,
+    "input": "1 teaspoon kosher salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 808,
+    "input": "2 teaspoons ground cinnamon",
+    "name": "cinnamon",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 809,
+    "input": "2 cups brown sugar",
+    "name": "brown sugar",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 810,
+    "input": "1 cup all-purpose flour",
+    "name": "flour",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "all-purpose"
+  },
+  {
+    "index": 811,
+    "input": "2 cups old-fashioned oats",
+    "name": "oats",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "old-fashioned"
+  },
+  {
+    "index": 812,
+    "input": "kosher salt and freshly ground black pepper to taste",
+    "name": "salt and black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "kosher freshly ground to taste"
+  },
+  {
+    "index": 813,
+    "input": "3 tablespoon chopped italian parsley",
+    "name": "parsley",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "chopped italian"
+  },
+  {
+    "index": 814,
+    "input": "2/3 cup pine nuts",
+    "name": "pine nuts",
+    "qty": 0.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 815,
+    "input": "2 tablespoons coarsely chopped italian parsley leaves",
+    "name": "italian parsley leaves",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "coarsely chopped"
+  },
+  {
+    "index": 816,
+    "input": "1/3 cup pitted and sliced picholine olives",
+    "name": "picholine olives",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "pitted and sliced"
+  },
+  {
+    "index": 817,
+    "input": "16 fresh dates, pitted and thinly sliced",
+    "name": "dates",
+    "qty": 16,
+    "range_end": 0,
+    "unit": "",
+    "comment": "fresh, pitted and thinly sliced"
+  },
+  {
+    "index": 818,
+    "input": "1 tablespoon olive oil",
+    "name": "olive oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 819,
+    "input": "1 small bunch fresh thyme, roughly chopped",
+    "name": "thyme",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "bunch",
+    "comment": "small fresh, roughly chopped"
+  },
+  {
+    "index": 820,
+    "input": "1 large onion, peeled and roughly chopped",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large, peeled and roughly chopped"
+  },
+  {
+    "index": 821,
+    "input": "4 ribs celery, chopped",
+    "name": "celery rib",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "chopped"
+  },
+  {
+    "index": 822,
+    "input": "freshly ground black pepper to taste",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 823,
+    "input": "4 teaspoons kosher salt",
+    "name": "salt",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 824,
+    "input": "2 whole long island ducks, trimmed of wing tips and excess fat",
+    "name": "long island ducks",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "whole, trimmed of wing tips and excess fat"
+  },
+  {
+    "index": 825,
+    "input": "16 fresh dates, pitted and thinly sliced lengthwise",
+    "name": "fresh dates",
+    "qty": 16,
+    "range_end": 0,
+    "unit": "",
+    "comment": "pitted and thinly sliced lengthwise"
+  },
+  {
+    "index": 826,
+    "input": "olive oil for greasing the pan",
+    "name": "olive oil",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for greasing the pan"
+  },
+  {
+    "index": 827,
+    "input": "2 teaspoons kosher salt",
+    "name": "kosher salt",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 828,
+    "input": "1 teaspoon kosher salt",
+    "name": "kosher salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 829,
+    "input": "1/2 cup olive oil",
+    "name": "olive oil",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 830,
+    "input": "1/2 cup red-wine vinegar",
+    "name": "red-wine vinegar",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 831,
+    "input": "2 tablespoons whole allspice",
+    "name": "whole allspice",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 832,
+    "input": "1 tablespoon whole cloves",
+    "name": "whole cloves",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 833,
+    "input": "1 whole nutmeg seed, smashed",
+    "name": "whole nutmeg seed",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "smashed"
+  },
+  {
+    "index": 834,
+    "input": "2 3-inch cinnamon sticks",
+    "name": "cinnamon sticks",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "3-inch"
+  },
+  {
+    "index": 835,
+    "input": "1/3 cup brown sugar",
+    "name": "brown sugar",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 836,
+    "input": "1 bottle cabernet sauvignon",
+    "name": "cabernet sauvignon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "bottle",
+    "comment": ""
+  },
+  {
+    "index": 837,
+    "input": "1 cup whole unblanched almonds",
+    "name": "whole unblanched almonds",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 838,
+    "input": "1 egg",
+    "name": "egg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 839,
+    "input": "1 1/2 teaspoons chopped fresh rosemary",
+    "name": "rosemary",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "chopped fresh"
+  },
+  {
+    "index": 840,
+    "input": "1/4 teaspoon freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 841,
+    "input": "1 teaspoon kosher salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "kosher"
+  },
+  {
+    "index": 842,
+    "input": "1 teaspoon baking powder",
+    "name": "baking powder",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 843,
+    "input": "1 tablespoon sugar",
+    "name": "sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 844,
+    "input": "1 cup all-purpose flour",
+    "name": "flour",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "all-purpose"
+  },
+  {
+    "index": 845,
+    "input": "3/4 cup yellow cornmeal",
+    "name": "yellow cornmeal",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 846,
+    "input": "1/2 cup chopped pitted dates, plus 12 dates, peeled, halved lengthwise and pitted",
+    "name": "dates",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "chopped pitted, plus 12 dates, peeled, halved lengthwise and pitted"
+  },
+  {
+    "index": 847,
+    "input": "2 tablespoons vegetable oil, plus more for greasing the pan",
+    "name": "vegetable oil",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "plus more for greasing the pan"
+  },
+  {
+    "index": 848,
+    "input": "1/2 cup oatmeal cookie crumbs (from crumbled cookies)",
+    "name": "oatmeal cookie crumbs",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "(from crumbled cookies)"
+  },
+  {
+    "index": 849,
+    "input": "2 cups greek or whole milk yogurt",
+    "name": "milk yogurt",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "greek or whole"
+  },
+  {
+    "index": 850,
+    "input": "4 teaspoons confectioners' sugar",
+    "name": "confectioners' sugar",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 851,
+    "input": "2 cups (one 12-ounce bag) frozen raspberries",
+    "name": "raspberries",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "(one 12-ounce bag) frozen"
+  },
+  {
+    "index": 852,
+    "input": "8 small slices (or 4 large slices, halved) stale or day-old white bakery bread",
+    "name": "white bakery bread",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "slice",
+    "comment": "(or 4 large slices, halved) stale or day-old"
+  },
+  {
+    "index": 853,
+    "input": "4 large eggs",
+    "name": "eggs",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large"
+  },
+  {
+    "index": 854,
+    "input": "1/4 cup tomato ketchup, more if desired",
+    "name": "tomato ketchup",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "more if desired"
+  },
+  {
+    "index": 855,
+    "input": "1 cup grated cheddar cheese",
+    "name": "cheddar cheese",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "grated"
+  },
+  {
+    "index": 856,
+    "input": "1/4 teaspoon mace",
+    "name": "mace",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 857,
+    "input": "1 1/2 cups whole milk",
+    "name": "milk",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "whole"
+  },
+  {
+    "index": 858,
+    "input": "10 slices (6 ounces) bacon",
+    "name": "bacon",
+    "qty": 10,
+    "range_end": 0,
+    "unit": "slice",
+    "comment": "6 ounces"
+  },
+  {
+    "index": 859,
+    "input": "butter for baking dish",
+    "name": "butter",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for baking dish"
+  },
+  {
+    "index": 860,
+    "input": "2 cups granola",
+    "name": "granola",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 861,
+    "input": "1/3 cup vegetable oil",
+    "name": "vegetable oil",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 862,
+    "input": "3/4 cup golden baker's natural cane sugar or other light brown sugar",
+    "name": "cane sugar",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "golden baker's natural or other light brown sugar"
+  },
+  {
+    "index": 863,
+    "input": "1 large egg",
+    "name": "egg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large"
+  },
+  {
+    "index": 864,
+    "input": "1 cup buttermilk",
+    "name": "butter milk",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 865,
+    "input": "1/4 teaspoon salt",
+    "name": "salt",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 866,
+    "input": "1 teaspoon baking soda",
+    "name": "baking soda",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 867,
+    "input": "1 1/2 cups all-purpose flour",
+    "name": "all-purpose flour",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 868,
+    "input": "confectioners' sugar for dusting",
+    "name": "confectioners' sugar",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for dusting"
+  },
+  {
+    "index": 869,
+    "input": "pinch salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pinch",
+    "comment": ""
+  },
+  {
+    "index": 870,
+    "input": "1/4 cup granulated sugar",
+    "name": "sugar",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "granulated"
+  },
+  {
+    "index": 871,
+    "input": "5 tablespoons frozen lemonade concentrate, thawed",
+    "name": "lemonade",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "frozen concentrate, thawed"
+  },
+  {
+    "index": 872,
+    "input": "5 eggs, separated",
+    "name": "eggs",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "",
+    "comment": "separated"
+  },
+  {
+    "index": 873,
+    "input": "butter for greasing the dish",
+    "name": "butter",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "for greasing the dish"
+  },
+  {
+    "index": 874,
+    "input": "freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 875,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 876,
+    "input": "2 shallots, minced",
+    "name": "shallots",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "minced"
+  },
+  {
+    "index": 877,
+    "input": "1/2 cup brut champagne",
+    "name": "champagne",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "brut"
+  },
+  {
+    "index": 878,
+    "input": "1 teaspoon olive oil",
+    "name": "olive oil",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 879,
+    "input": "2 filet mignons, at least 6 ounces each",
+    "name": "filet mignons",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "at least 6 ounces each"
+  },
+  {
+    "index": 880,
+    "input": "2 tablespoons plus 1 teaspoon butter",
+    "name": "butter",
+    "qty": 7,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 881,
+    "input": "freshly ground black pepper",
+    "name": "black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 882,
+    "input": "salt",
+    "name": "salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 883,
+    "input": "1 egg yolk",
+    "name": "egg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "yolk"
+  },
+  {
+    "index": 884,
+    "input": "20 ounces golden (whitefish) caviar",
+    "name": "caviar",
+    "qty": 20,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "golden (white fish)"
+  },
+  {
+    "index": 885,
+    "input": "1 1/2 pounds angel-hair pasta",
+    "name": "pasta",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "angel-hair"
+  },
+  {
+    "index": 886,
+    "input": "8 tablespoons unsalted butter, softened",
+    "name": "unsalted butter",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "softened"
+  },
+  {
+    "index": 887,
+    "input": "2 bay leaves",
+    "name": "bay leaves",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 888,
+    "input": "1/3 cup calvados or other brandy",
+    "name": "brandy",
+    "qty": 0.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "calvados or other"
+  },
+  {
+    "index": 889,
+    "input": "3 cups créme fraîche",
+    "name": "créme fraîche",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 890,
+    "input": "freshly grated reggiano parmesan",
+    "name": "reggiano parmesan",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly grated"
+  },
+  {
+    "index": 891,
+    "input": "coarse sea salt and freshly ground pepper to taste",
+    "name": "coarse sea salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 892,
+    "input": "about 1 cup heavy cream",
+    "name": "heavy cream",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "about"
+  },
+  {
+    "index": 893,
+    "input": "1 clove garlic, minced",
+    "name": "garlic",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "minced"
+  },
+  {
+    "index": 894,
+    "input": "3 to 4 tablespoons olive oil",
+    "name": "olive oil",
+    "qty": 3,
+    "range_end": 4,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 895,
+    "input": "about 24 sage leaves",
+    "name": "sage leaves",
+    "qty": 24,
+    "range_end": 0,
+    "unit": "",
+    "comment": "about"
+  },
+  {
+    "index": 896,
+    "input": "4 hot italian sausages",
+    "name": "italian sausages",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "hot"
+  },
+  {
+    "index": 897,
+    "input": "1 pound fettuccine",
+    "name": "fettuccine",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": ""
+  },
+  {
+    "index": 898,
+    "input": "coarse sea salt to taste",
+    "name": "coarse sea salt",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "to taste"
+  },
+  {
+    "index": 899,
+    "input": "about 24 sage leaves",
+    "name": "sage leaves",
+    "qty": 24,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 900,
+    "input": "freshly ground pepper to taste",
+    "name": "pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 901,
+    "input": "1/2 cup olive oil",
+    "name": "olive oil",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 902,
+    "input": "2 tablespoons dijon mustard",
+    "name": "dijon mustard",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 903,
+    "input": "2 lemons",
+    "name": "lemons",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 904,
+    "input": "1 salmon fillet, about 1 1/2 to 2 pounds",
+    "name": "salmon",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "fillet",
+    "comment": "about 1 1/2 to 2 pounds"
+  },
+  {
+    "index": 905,
+    "input": "1/2 cup grated reggiano parmesan, plus extra for garnish",
+    "name": "reggiano parmesan",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "grated, plus extra for garnish"
+  },
+  {
+    "index": 906,
+    "input": "1/2 cup dry white wine",
+    "name": "dry white wine",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 907,
+    "input": "2 cups arborio rice",
+    "name": "arborio rice",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 908,
+    "input": "1 medium onion",
+    "name": "onion",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium"
+  },
+  {
+    "index": 909,
+    "input": "5 1/2 tablespoons unsalted butter",
+    "name": "unsalted butter",
+    "qty": 5.5,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 910,
+    "input": "7 to 8 cups chicken stock",
+    "name": "chicken stock",
+    "qty": 7,
+    "range_end": 8,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 911,
+    "input": "coarse sea salt and freshly ground pepper to taste",
+    "name": "coarse sea salt and pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground to taste"
+  },
+  {
+    "index": 912,
+    "input": "about 24 sage leaves",
+    "name": "sage leaves",
+    "qty": 24,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 913,
+    "input": "1 medium butternut squash (about 1 pound)",
+    "name": "butternut squash",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "medium (about 1 pound)"
+  },
+  {
+    "index": 914,
+    "input": "2 kaffir lime leaves, very thinly shredded",
+    "name": "lime leaves",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": "kaffir, very thinly shredded"
+  },
+  {
+    "index": 915,
+    "input": "1 tablespoon or more nam pla (fish sauce)",
+    "name": "nam pla",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "or more (fish sauce)"
+  },
+  {
+    "index": 916,
+    "input": "1/2 cup green onions",
+    "name": "green onions",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 917,
+    "input": "1/2 cup very thinly sliced lemon grass",
+    "name": "lemon grass",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "very thinly sliced"
+  },
+  {
+    "index": 918,
+    "input": "1/2 cup very thinly sliced ginger",
+    "name": "ginger",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "very thinly sliced"
+  },
+  {
+    "index": 919,
+    "input": "1/2 cup very thinly sliced shallots",
+    "name": "shallots",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "very thinly sliced"
+  },
+  {
+    "index": 920,
+    "input": "1 tablespoon palm sugar",
+    "name": "sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "palm"
+  },
+  {
+    "index": 921,
+    "input": "2 tablespoons kaffir lime juice",
+    "name": "lime juice",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "kaffir"
+  },
+  {
+    "index": 922,
+    "input": "1 tablespoon tamarind paste",
+    "name": "tamarind paste",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 923,
+    "input": "4 whole kaffir lime leaves, for garnish",
+    "name": "lime leaves",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "whole kaffir, for garnish"
+  },
+  {
+    "index": 924,
+    "input": "5 sprigs cilantro, washed, dried and chopped",
+    "name": "cilantro",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "sprig",
+    "comment": "washed, dried and chopped"
+  },
+  {
+    "index": 925,
+    "input": "3 to 4 tablespoons (or more) lime juice",
+    "name": "lime juice",
+    "qty": 3,
+    "range_end": 4,
+    "unit": "tablespoon",
+    "comment": "or more"
+  },
+  {
+    "index": 926,
+    "input": "2 to 3 teaspoons nam pla (fish sauce)",
+    "name": "nam pla",
+    "qty": 2,
+    "range_end": 3,
+    "unit": "teaspoon",
+    "comment": "fish sauce"
+  },
+  {
+    "index": 927,
+    "input": "2 to 3 bird pepper chilies, stemmed, seeded and minced",
+    "name": "bird pepper chilies",
+    "qty": 2,
+    "range_end": 3,
+    "unit": "",
+    "comment": "stemmed, seeded and minced"
+  },
+  {
+    "index": 928,
+    "input": "8 ounces jumbo shrimp",
+    "name": "jumbo shrimp",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": ""
+  },
+  {
+    "index": 929,
+    "input": "5 ounces oyster mushrooms, trimmed and quartered",
+    "name": "oyster mushrooms",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "ounce",
+    "comment": "trimmed and quartered"
+  },
+  {
+    "index": 930,
+    "input": "3 kaffir lime leaves, very thinly sliced",
+    "name": "lime leaves",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "kaffir, very thinly sliced"
+  },
+  {
+    "index": 931,
+    "input": "4 cups chicken stock, preferably homemade",
+    "name": "chicken stock",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "preferably homemade"
+  },
+  {
+    "index": 932,
+    "input": "3 or 4 stalks lemon grass",
+    "name": "lemon grass",
+    "qty": 3,
+    "range_end": 4,
+    "unit": "stalk",
+    "comment": ""
+  },
+  {
+    "index": 933,
+    "input": "8 egg yolks",
+    "name": "egg",
+    "qty": 8,
+    "range_end": 0,
+    "unit": "",
+    "comment": "yolks"
+  },
+  {
+    "index": 934,
+    "input": "1 cup sugar",
+    "name": "sugar",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 935,
+    "input": "4 kaffir lime leaves (see note)",
+    "name": "lime leaves",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "",
+    "comment": "kaffir (see note)"
+  },
+  {
+    "index": 936,
+    "input": "1 quart plus 5 tablespoons whole milk",
+    "name": "milk",
+    "qty": 69,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "whole"
+  },
+  {
+    "index": 937,
+    "input": "12 stalks lemon grass",
+    "name": "lemon grass",
+    "qty": 12,
+    "range_end": 0,
+    "unit": "stalk",
+    "comment": ""
+  },
+  {
+    "index": 938,
+    "input": "chopped fresh parsley for garnish, optional",
+    "name": "parsley",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "chopped fresh for garnish, optional"
+  },
+  {
+    "index": 939,
+    "input": "salt and freshly ground black pepper",
+    "name": "salt and black pepper",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "freshly ground"
+  },
+  {
+    "index": 940,
+    "input": "several sprigs fresh thyme, or 1 teaspoon dried thyme",
+    "name": "thyme",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "several sprigs fresh, or 1 teaspoon dried thyme"
+  },
+  {
+    "index": 941,
+    "input": "1 cup fruity red wine",
+    "name": "red wine",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "fruity"
+  },
+  {
+    "index": 942,
+    "input": "2 pounds cleaned squid, the bodies cut up if large",
+    "name": "squid",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "cleaned, the bodies cut up if large"
+  },
+  {
+    "index": 943,
+    "input": "5 cloves garlic, crushed",
+    "name": "garlic",
+    "qty": 5,
+    "range_end": 0,
+    "unit": "clove",
+    "comment": "crushed"
+  },
+  {
+    "index": 944,
+    "input": "3 tablespoons extra virgin olive oil",
+    "name": "olive oil",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "extra virgin"
+  },
+  {
+    "index": 945,
+    "input": "tinted sugar for decoration (optional)",
+    "name": "sugar",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "tinted for decoration (optional)"
+  },
+  {
+    "index": 946,
+    "input": "slivered almonds, slightly crushed, for decoration (optional)",
+    "name": "almonds",
+    "qty": 0,
+    "range_end": 0,
+    "unit": "",
+    "comment": "slivered, slightly crushed, for decoration (optional)"
+  },
+  {
+    "index": 947,
+    "input": "3 to 3 1/2 cups all-purpose flour, more if cookie cutters are used",
+    "name": "all-purpose flour",
+    "qty": 3,
+    "range_end": 3.5,
+    "unit": "cup",
+    "comment": "more if cookie cutters are used"
+  },
+  {
+    "index": 948,
+    "input": "1/8 teaspoon salt",
+    "name": "salt",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 949,
+    "input": "1 teaspoon vanilla extract",
+    "name": "vanilla extract",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 950,
+    "input": "1 tablespoon brandy",
+    "name": "brandy",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 951,
+    "input": "3/4 cup sugar",
+    "name": "sugar",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 952,
+    "input": "3 large eggs",
+    "name": "eggs",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "",
+    "comment": "large"
+  },
+  {
+    "index": 953,
+    "input": "1 cup unsalted butter or margarine",
+    "name": "unsalted butter",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "or margarine"
+  },
+  {
+    "index": 954,
+    "input": "6 eggs, separated",
+    "name": "eggs",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "",
+    "comment": "separated"
+  },
+  {
+    "index": 955,
+    "input": "1 teaspoon vanilla extract",
+    "name": "vanilla extract",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 956,
+    "input": "1/2 cup sugar",
+    "name": "sugar",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 957,
+    "input": "4 cups milk",
+    "name": "milk",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 958,
+    "input": "1 cup shelled walnuts, coarsely chopped",
+    "name": "walnuts",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "shelled, coarsely chopped"
+  },
+  {
+    "index": 959,
+    "input": "1 cup dried, pitted dates, coarsely chopped",
+    "name": "dates",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "dried, pitted, coarsely chopped"
+  },
+  {
+    "index": 960,
+    "input": "1 1/2 cups dried pears, cut into 1/2-inch pieces",
+    "name": "pears",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "dried, cut into 1/2-inch pieces"
+  },
+  {
+    "index": 961,
+    "input": "1 1/2 cups tawny port",
+    "name": "tawny port",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 962,
+    "input": "1 cup dried cranberries",
+    "name": "cranberries",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "dried"
+  },
+  {
+    "index": 963,
+    "input": "6 cups brioche (approximately 2 large loaves or 4 mini-loaves), cut into 1-inch cubes",
+    "name": "brioche",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "(approximately 2 large loaves or 4 mini-loaves), cut into 1-inch cubes"
+  },
+  {
+    "index": 964,
+    "input": "1/8 teaspoon salt",
+    "name": "salt",
+    "qty": 0.13,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 965,
+    "input": "2 tablespoons sherry",
+    "name": "sherry",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 966,
+    "input": "3/4 cup confectioners' sugar, sifted",
+    "name": "confectioners' sugar",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "sifted"
+  },
+  {
+    "index": 967,
+    "input": "4 tablespoons unsalted butter, at room temperature",
+    "name": "unsalted butter",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "at room temperature"
+  },
+  {
+    "index": 968,
+    "input": "3/4 cup golden raisins",
+    "name": "golden raisins",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 969,
+    "input": "3/4 cup dried cherries",
+    "name": "cherries",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "dried"
+  },
+  {
+    "index": 970,
+    "input": "1/2 teaspoon salt",
+    "name": "salt",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 971,
+    "input": "1/2 teaspoon baking soda",
+    "name": "baking soda",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 972,
+    "input": "2 cups all-purpose flour",
+    "name": "flour",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "all-purpose"
+  },
+  {
+    "index": 973,
+    "input": "2 teaspoons ground ginger",
+    "name": "ginger",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 974,
+    "input": "1/2 cup milk",
+    "name": "milk",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 975,
+    "input": "1/2 cup molasses",
+    "name": "molasses",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 976,
+    "input": "2 eggs",
+    "name": "eggs",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 977,
+    "input": "1/2 cup brown sugar",
+    "name": "brown sugar",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 978,
+    "input": "4 tablespoons unsalted butter, at room temperature",
+    "name": "unsalted butter",
+    "qty": 4,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "at room temperature"
+  },
+  {
+    "index": 979,
+    "input": "1 pound dried figs, stemmed",
+    "name": "figs",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "pound",
+    "comment": "dried, stemmed"
+  },
+  {
+    "index": 980,
+    "input": "2 teaspoons dried thyme",
+    "name": "thyme",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "dried"
+  },
+  {
+    "index": 981,
+    "input": "3/4 cup sugar",
+    "name": "sugar",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 982,
+    "input": "3/4 cup honey",
+    "name": "honey",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 983,
+    "input": "3 cups water",
+    "name": "water",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 984,
+    "input": "1/2 teaspoon salt",
+    "name": "salt",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 985,
+    "input": "1 1/3 cups blanched almonds, toasted and finely ground",
+    "name": "almonds",
+    "qty": 1.33,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "blanched, toasted and finely ground"
+  },
+  {
+    "index": 986,
+    "input": "3 tablespoons all-purpose flour",
+    "name": "flour",
+    "qty": 3,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "all-purpose"
+  },
+  {
+    "index": 987,
+    "input": "1 teaspoon vanilla extract",
+    "name": "vanilla extract",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 988,
+    "input": "2 eggs",
+    "name": "eggs",
+    "qty": 2,
+    "range_end": 0,
+    "unit": "",
+    "comment": ""
+  },
+  {
+    "index": 989,
+    "input": "2/3 cup confectioners' sugar, sifted",
+    "name": "confectioners' sugar",
+    "qty": 0.67,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "sifted"
+  },
+  {
+    "index": 990,
+    "input": "6 tablespoons unsalted butter, at room temperature",
+    "name": "unsalted butter",
+    "qty": 6,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": "at room temperature"
+  },
+  {
+    "index": 991,
+    "input": "1 tablespoon water",
+    "name": "water",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "tablespoon",
+    "comment": ""
+  },
+  {
+    "index": 992,
+    "input": "1 egg yolk, whisked with 1 tablespoon water",
+    "name": "egg",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "",
+    "comment": "yolk, whisked with 1 tablespoon water"
+  },
+  {
+    "index": 993,
+    "input": "1/2 cup cold unsalted butter, cut into pieces",
+    "name": "unsalted butter",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "cold, cut into pieces"
+  },
+  {
+    "index": 994,
+    "input": "1/2 teaspoon ground cinnamon",
+    "name": "cinnamon",
+    "qty": 0.5,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": "ground"
+  },
+  {
+    "index": 995,
+    "input": "1 teaspoon salt",
+    "name": "salt",
+    "qty": 1,
+    "range_end": 0,
+    "unit": "teaspoon",
+    "comment": ""
+  },
+  {
+    "index": 996,
+    "input": "1/4 cup sugar",
+    "name": "sugar",
+    "qty": 0.25,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  },
+  {
+    "index": 997,
+    "input": "1 1/2 cups all-purpose flour",
+    "name": "flour",
+    "qty": 1.5,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": "all-purpose"
+  },
+  {
+    "index": 998,
+    "input": "3/4 cup armagnac",
+    "name": "armagnac",
+    "qty": 0.75,
+    "range_end": 0,
+    "unit": "cup",
+    "comment": ""
+  }
+]
