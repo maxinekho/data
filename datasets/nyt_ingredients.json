@@ -1,4 +1,6 @@
-[
+{
+ "name": "nyt ingredients",
+ "children": [
   {
     "index": 0,
     "input": "1 1/4 cups cooked and pureed fresh butternut squash, or 1 10-ounce package frozen squash, defrosted",
@@ -8991,3 +8993,4 @@
     "comment": ""
   }
 ]
+}
